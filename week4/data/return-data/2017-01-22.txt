@@ -1,0 +1,1000 @@
+{"transactionId": 7229497666, "basket": [1, 5, 1, 5, 1, 4, 1, 3, 1, 2, 3, 4], "zipCode": 7165, "totalAmount": 1020, "returnLabel": 0}
+{"transactionId": 9097540284, "basket": [0, 5, 3], "zipCode": 8147, "totalAmount": 111, "returnLabel": 0}
+{"transactionId": 1881489397, "basket": [4, 4, 5, 3, 5, 1, 5, 0, 4], "zipCode": 9059, "totalAmount": 612, "returnLabel": 0}
+{"transactionId": 1162573689, "basket": [4, 3, 2, 2, 2], "zipCode": 2333, "totalAmount": 150, "returnLabel": 0}
+{"transactionId": 3294577227, "basket": [0, 3, 0, 5], "zipCode": 8535, "totalAmount": 304, "returnLabel": 0}
+{"transactionId": 9960384580, "basket": [0, 0, 1], "zipCode": 9992, "totalAmount": 39, "returnLabel": 0}
+{"transactionId": 7646264696, "basket": [4], "zipCode": 1191, "totalAmount": 44, "returnLabel": 0}
+{"transactionId": 8191889724, "basket": [1, 5, 0, 3, 4, 0, 1], "zipCode": 8149, "totalAmount": 504, "returnLabel": 0}
+{"transactionId": 7300762663, "basket": [2], "zipCode": 5721, "totalAmount": 10, "returnLabel": 0}
+{"transactionId": 9855414637, "basket": [1, 0, 3, 5], "zipCode": 4747, "totalAmount": 72, "returnLabel": 0}
+{"transactionId": 6725354618, "basket": [2, 5, 1, 4, 4, 0], "zipCode": 3069, "totalAmount": 456, "returnLabel": 0}
+{"transactionId": 2763146621, "basket": [1, 1, 2], "zipCode": 3165, "totalAmount": 129, "returnLabel": 0}
+{"transactionId": 2403547777, "basket": [3, 1], "zipCode": 6068, "totalAmount": 66, "returnLabel": 0}
+{"transactionId": 6489032507, "basket": [5, 4], "zipCode": 7999, "totalAmount": 206, "returnLabel": 0}
+{"transactionId": 5720537658, "basket": [0, 3, 2, 0, 3, 3, 4, 3], "zipCode": 2871, "totalAmount": 840, "returnLabel": 0}
+{"transactionId": 8888698016, "basket": [2, 3, 5, 2, 2, 5, 4, 3], "zipCode": 1429, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 6411118980, "basket": [0, 0, 3], "zipCode": 1202, "totalAmount": 72, "returnLabel": 0}
+{"transactionId": 6362890713, "basket": [3, 5, 2, 3, 3, 5], "zipCode": 3838, "totalAmount": 66, "returnLabel": 0}
+{"transactionId": 6912102306, "basket": [0], "zipCode": 5313, "totalAmount": 86, "returnLabel": 0}
+{"transactionId": 9445241806, "basket": [2, 0, 5, 4], "zipCode": 7304, "totalAmount": 116, "returnLabel": 0}
+{"transactionId": 6395146716, "basket": [0, 5], "zipCode": 9640, "totalAmount": 156, "returnLabel": 0}
+{"transactionId": 9481962647, "basket": [2, 3], "zipCode": 5845, "totalAmount": 120, "returnLabel": 0}
+{"transactionId": 6933241660, "basket": [2, 1, 2, 0, 4, 1, 4, 4], "zipCode": 3786, "totalAmount": 800, "returnLabel": 0}
+{"transactionId": 8268198425, "basket": [3], "zipCode": 9260, "totalAmount": 74, "returnLabel": 0}
+{"transactionId": 2215973350, "basket": [0, 4, 3, 1, 4, 3, 0], "zipCode": 5324, "totalAmount": 462, "returnLabel": 1}
+{"transactionId": 1106958236, "basket": [3, 2, 4, 0, 0, 4], "zipCode": 6399, "totalAmount": 264, "returnLabel": 0}
+{"transactionId": 2168532902, "basket": [3, 2, 0, 5, 4, 2], "zipCode": 7481, "totalAmount": 318, "returnLabel": 0}
+{"transactionId": 3823516933, "basket": [0], "zipCode": 1991, "totalAmount": 52, "returnLabel": 0}
+{"transactionId": 1304490138, "basket": [0, 2, 1, 3], "zipCode": 3523, "totalAmount": 388, "returnLabel": 0}
+{"transactionId": 6655820492, "basket": [5], "zipCode": 9761, "totalAmount": 74, "returnLabel": 0}
+{"transactionId": 1613916031, "basket": [2, 0, 4, 2], "zipCode": 7840, "totalAmount": 136, "returnLabel": 0}
+{"transactionId": 7471485689, "basket": [4], "zipCode": 3241, "totalAmount": 102, "returnLabel": 0}
+{"transactionId": 9841722928, "basket": [4], "zipCode": 6466, "totalAmount": 73, "returnLabel": 0}
+{"transactionId": 5491050841, "basket": [4, 0, 0, 3, 0, 2, 1, 3, 3, 3], "zipCode": 7072, "totalAmount": 850, "returnLabel": 0}
+{"transactionId": 1329259479, "basket": [3, 1, 0, 1, 2, 0], "zipCode": 5244, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 3865897939, "basket": [3, 5], "zipCode": 5070, "totalAmount": 228, "returnLabel": 0}
+{"transactionId": 4746457976, "basket": [1, 2], "zipCode": 3053, "totalAmount": 168, "returnLabel": 0}
+{"transactionId": 3928333515, "basket": [4, 0, 2], "zipCode": 6865, "totalAmount": 39, "returnLabel": 0}
+{"transactionId": 8977224151, "basket": [2, 2, 3, 3], "zipCode": 9484, "totalAmount": 304, "returnLabel": 0}
+{"transactionId": 7500487948, "basket": [2, 0, 1, 0, 0, 3, 2], "zipCode": 3549, "totalAmount": 609, "returnLabel": 0}
+{"transactionId": 4963656750, "basket": [4, 3, 1, 3, 4, 5, 0, 3, 1], "zipCode": 9132, "totalAmount": 90, "returnLabel": 0}
+{"transactionId": 9729142432, "basket": [4], "zipCode": 9578, "totalAmount": 84, "returnLabel": 0}
+{"transactionId": 8240678582, "basket": [5, 0, 4, 0, 3, 0, 1, 4], "zipCode": 2886, "totalAmount": 664, "returnLabel": 0}
+{"transactionId": 8668849715, "basket": [0], "zipCode": 5562, "totalAmount": 10, "returnLabel": 0}
+{"transactionId": 7080402634, "basket": [2], "zipCode": 4968, "totalAmount": 86, "returnLabel": 0}
+{"transactionId": 6766596452, "basket": [3, 5, 0, 3, 4, 2], "zipCode": 1415, "totalAmount": 318, "returnLabel": 0}
+{"transactionId": 4382468119, "basket": [2], "zipCode": 1459, "totalAmount": 46, "returnLabel": 0}
+{"transactionId": 9835868055, "basket": [1], "zipCode": 3481, "totalAmount": 73, "returnLabel": 0}
+{"transactionId": 4582115826, "basket": [3, 3, 2, 3], "zipCode": 6887, "totalAmount": 360, "returnLabel": 0}
+{"transactionId": 1146156949, "basket": [5, 5, 3, 5, 5, 4, 3, 3], "zipCode": 3879, "totalAmount": 120, "returnLabel": 0}
+{"transactionId": 9625216330, "basket": [0, 5, 0, 5, 3], "zipCode": 5184, "totalAmount": 235, "returnLabel": 0}
+{"transactionId": 9508533344, "basket": [0, 0, 1, 1, 5, 4], "zipCode": 6462, "totalAmount": 648, "returnLabel": 0}
+{"transactionId": 8253381567, "basket": [2, 1, 5, 5, 5, 3, 3, 3, 0], "zipCode": 5622, "totalAmount": 495, "returnLabel": 0}
+{"transactionId": 2759452899, "basket": [5, 3, 2, 4, 1, 1], "zipCode": 3893, "totalAmount": 276, "returnLabel": 0}
+{"transactionId": 3050012773, "basket": [1, 1, 3, 4, 4, 1, 4, 3], "zipCode": 7715, "totalAmount": 736, "returnLabel": 0}
+{"transactionId": 8008636976, "basket": [0, 5, 1, 1, 4], "zipCode": 6492, "totalAmount": 250, "returnLabel": 0}
+{"transactionId": 6085705406, "basket": [3, 3, 4, 0, 5], "zipCode": 4482, "totalAmount": 395, "returnLabel": 0}
+{"transactionId": 2588248116, "basket": [0], "zipCode": 1508, "totalAmount": 96, "returnLabel": 0}
+{"transactionId": 3216502684, "basket": [3, 3, 5, 1, 2, 1, 3], "zipCode": 5186, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 3114769915, "basket": [5, 1, 2, 0, 0], "zipCode": 5860, "totalAmount": 390, "returnLabel": 0}
+{"transactionId": 5965929210, "basket": [5, 5, 1], "zipCode": 5945, "totalAmount": 192, "returnLabel": 0}
+{"transactionId": 5533395117, "basket": [2, 0, 3], "zipCode": 5987, "totalAmount": 132, "returnLabel": 0}
+{"transactionId": 8855907609, "basket": [1, 2], "zipCode": 9108, "totalAmount": 66, "returnLabel": 0}
+{"transactionId": 9649981430, "basket": [0], "zipCode": 8961, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 8713658810, "basket": [3], "zipCode": 3285, "totalAmount": 83, "returnLabel": 0}
+{"transactionId": 6900451851, "basket": [3, 1, 5, 4, 5, 5, 3], "zipCode": 3534, "totalAmount": 763, "returnLabel": 0}
+{"transactionId": 1600227961, "basket": [2, 4, 0, 5, 5, 4, 4], "zipCode": 4223, "totalAmount": 833, "returnLabel": 0}
+{"transactionId": 9598239585, "basket": [5, 5], "zipCode": 9993, "totalAmount": 42, "returnLabel": 0}
+{"transactionId": 6562378718, "basket": [3, 1], "zipCode": 7087, "totalAmount": 38, "returnLabel": 0}
+{"transactionId": 5293750728, "basket": [5, 3, 1, 1, 0, 3, 3], "zipCode": 7703, "totalAmount": 140, "returnLabel": 0}
+{"transactionId": 7989973308, "basket": [2], "zipCode": 5411, "totalAmount": 72, "returnLabel": 0}
+{"transactionId": 6943476888, "basket": [0, 1, 4, 0, 5], "zipCode": 2479, "totalAmount": 145, "returnLabel": 0}
+{"transactionId": 1168298028, "basket": [4, 1, 4], "zipCode": 2361, "totalAmount": 84, "returnLabel": 0}
+{"transactionId": 8797218872, "basket": [3, 2], "zipCode": 3262, "totalAmount": 88, "returnLabel": 0}
+{"transactionId": 6645542836, "basket": [0, 3, 3, 4, 1, 3], "zipCode": 5826, "totalAmount": 390, "returnLabel": 0}
+{"transactionId": 8854684336, "basket": [2], "zipCode": 1498, "totalAmount": 58, "returnLabel": 0}
+{"transactionId": 1567223499, "basket": [0, 0, 0, 4, 0, 3, 1], "zipCode": 5063, "totalAmount": 623, "returnLabel": 0}
+{"transactionId": 5093031119, "basket": [1, 3, 4, 4, 4, 5, 1, 0], "zipCode": 7471, "totalAmount": 104, "returnLabel": 0}
+{"transactionId": 2624518885, "basket": [5], "zipCode": 2489, "totalAmount": 82, "returnLabel": 0}
+{"transactionId": 9219801363, "basket": [1, 2, 5, 3, 0, 3, 3], "zipCode": 2449, "totalAmount": 658, "returnLabel": 0}
+{"transactionId": 9920582458, "basket": [4, 2, 4], "zipCode": 7615, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 7061302462, "basket": [3, 3, 3, 3], "zipCode": 1110, "totalAmount": 340, "returnLabel": 1}
+{"transactionId": 8664399470, "basket": [2, 1, 3, 5, 2, 5], "zipCode": 4195, "totalAmount": 330, "returnLabel": 0}
+{"transactionId": 3619035890, "basket": [5, 3, 2, 4, 0, 0, 2], "zipCode": 3449, "totalAmount": 546, "returnLabel": 0}
+{"transactionId": 6429608058, "basket": [1, 0, 1, 5, 2, 1], "zipCode": 5406, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 9795979249, "basket": [2, 4, 1], "zipCode": 4664, "totalAmount": 144, "returnLabel": 0}
+{"transactionId": 4456066853, "basket": [2, 5, 0, 4, 0, 0, 0, 2, 4], "zipCode": 3663, "totalAmount": 450, "returnLabel": 0}
+{"transactionId": 9267832481, "basket": [2, 0, 3, 2, 1, 0, 4, 2, 4], "zipCode": 7455, "totalAmount": 828, "returnLabel": 0}
+{"transactionId": 1184160215, "basket": [0, 4, 5], "zipCode": 3566, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 9143306073, "basket": [1, 3, 0, 2, 5, 4], "zipCode": 2049, "totalAmount": 330, "returnLabel": 0}
+{"transactionId": 7776544385, "basket": [0], "zipCode": 5936, "totalAmount": 116, "returnLabel": 0}
+{"transactionId": 9910683561, "basket": [2], "zipCode": 8803, "totalAmount": 25, "returnLabel": 0}
+{"transactionId": 8580710762, "basket": [0, 5, 1, 2, 3, 5, 4], "zipCode": 6364, "totalAmount": 224, "returnLabel": 0}
+{"transactionId": 1358361513, "basket": [5, 2, 2, 1, 1], "zipCode": 2041, "totalAmount": 430, "returnLabel": 0}
+{"transactionId": 8994723824, "basket": [4, 5, 4, 1, 3, 4], "zipCode": 6088, "totalAmount": 408, "returnLabel": 0}
+{"transactionId": 3995703821, "basket": [4, 5, 4, 0, 3, 4, 4], "zipCode": 3064, "totalAmount": 392, "returnLabel": 0}
+{"transactionId": 8950805680, "basket": [1, 5, 5], "zipCode": 4924, "totalAmount": 153, "returnLabel": 0}
+{"transactionId": 2546832946, "basket": [2, 0, 5, 3, 3, 5], "zipCode": 6514, "totalAmount": 198, "returnLabel": 0}
+{"transactionId": 1753349207, "basket": [1, 4, 2], "zipCode": 8098, "totalAmount": 285, "returnLabel": 0}
+{"transactionId": 3311029620, "basket": [1], "zipCode": 8132, "totalAmount": 26, "returnLabel": 0}
+{"transactionId": 8677397799, "basket": [0, 3, 2, 4, 2, 2], "zipCode": 7474, "totalAmount": 420, "returnLabel": 0}
+{"transactionId": 2711577771, "basket": [3, 3, 1, 0, 3, 4, 2], "zipCode": 2097, "totalAmount": 329, "returnLabel": 0}
+{"transactionId": 8672320468, "basket": [2, 0, 3], "zipCode": 4405, "totalAmount": 291, "returnLabel": 0}
+{"transactionId": 8761319025, "basket": [2], "zipCode": 2253, "totalAmount": 10, "returnLabel": 0}
+{"transactionId": 9340409412, "basket": [3, 3, 1, 0], "zipCode": 6218, "totalAmount": 72, "returnLabel": 0}
+{"transactionId": 4212100553, "basket": [4, 5, 0, 0], "zipCode": 8153, "totalAmount": 332, "returnLabel": 0}
+{"transactionId": 4476909487, "basket": [3, 2, 3, 1, 4, 2, 5, 2], "zipCode": 8130, "totalAmount": 424, "returnLabel": 0}
+{"transactionId": 3529298120, "basket": [2, 3, 4, 5, 4, 3, 5], "zipCode": 5124, "totalAmount": 287, "returnLabel": 0}
+{"transactionId": 4212877726, "basket": [4, 5, 1], "zipCode": 4901, "totalAmount": 210, "returnLabel": 0}
+{"transactionId": 6096329798, "basket": [1, 3, 2], "zipCode": 6368, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 5523413045, "basket": [3, 0, 2, 2, 5, 1, 2, 2, 5, 5, 3], "zipCode": 3108, "totalAmount": 385, "returnLabel": 0}
+{"transactionId": 9733555458, "basket": [3, 4, 1, 1, 1, 5, 1, 2, 4, 5], "zipCode": 8540, "totalAmount": 450, "returnLabel": 0}
+{"transactionId": 5539085317, "basket": [5, 2, 3, 3], "zipCode": 2003, "totalAmount": 140, "returnLabel": 0}
+{"transactionId": 6971700633, "basket": [3, 5, 4, 1], "zipCode": 5692, "totalAmount": 160, "returnLabel": 0}
+{"transactionId": 9143730008, "basket": [0, 5, 3, 5, 5, 2, 0, 3, 3, 1, 5], "zipCode": 1997, "totalAmount": 110, "returnLabel": 0}
+{"transactionId": 4610599916, "basket": [5, 1, 2], "zipCode": 8739, "totalAmount": 42, "returnLabel": 0}
+{"transactionId": 8773877191, "basket": [0, 1, 4, 1], "zipCode": 9696, "totalAmount": 128, "returnLabel": 0}
+{"transactionId": 1735094414, "basket": [4, 0, 5, 4], "zipCode": 7922, "totalAmount": 384, "returnLabel": 0}
+{"transactionId": 6162573855, "basket": [2], "zipCode": 9645, "totalAmount": 55, "returnLabel": 0}
+{"transactionId": 9287905880, "basket": [1, 0, 2, 4, 0, 0, 3, 2, 5, 2], "zipCode": 5960, "totalAmount": 100, "returnLabel": 0}
+{"transactionId": 1427163514, "basket": [4, 4, 2, 0, 1], "zipCode": 1579, "totalAmount": 50, "returnLabel": 0}
+{"transactionId": 2225010363, "basket": [2], "zipCode": 3775, "totalAmount": 23, "returnLabel": 0}
+{"transactionId": 6560559018, "basket": [4, 4, 2, 1, 5], "zipCode": 4481, "totalAmount": 160, "returnLabel": 0}
+{"transactionId": 1765097691, "basket": [4, 5, 5, 3, 1, 3, 2], "zipCode": 6726, "totalAmount": 658, "returnLabel": 0}
+{"transactionId": 8825695871, "basket": [5], "zipCode": 9141, "totalAmount": 53, "returnLabel": 0}
+{"transactionId": 4525156378, "basket": [0, 3, 1, 2, 1, 1, 1, 4, 5], "zipCode": 6083, "totalAmount": 396, "returnLabel": 0}
+{"transactionId": 6155173592, "basket": [2, 2, 5, 0, 0, 0, 1], "zipCode": 5306, "totalAmount": 287, "returnLabel": 0}
+{"transactionId": 1956798679, "basket": [2, 0, 0, 5, 0, 5], "zipCode": 3580, "totalAmount": 192, "returnLabel": 0}
+{"transactionId": 5062841748, "basket": [2, 4, 4, 5, 5, 5, 0], "zipCode": 4447, "totalAmount": 420, "returnLabel": 0}
+{"transactionId": 9369920806, "basket": [2, 2, 2, 0], "zipCode": 5463, "totalAmount": 224, "returnLabel": 0}
+{"transactionId": 3089664901, "basket": [2, 2, 2, 3, 0, 5], "zipCode": 4089, "totalAmount": 306, "returnLabel": 0}
+{"transactionId": 9313838861, "basket": [3], "zipCode": 3369, "totalAmount": 67, "returnLabel": 0}
+{"transactionId": 3621039254, "basket": [3, 5, 0, 4], "zipCode": 8261, "totalAmount": 300, "returnLabel": 0}
+{"transactionId": 8316696074, "basket": [2, 5, 5, 4, 3, 5], "zipCode": 9827, "totalAmount": 174, "returnLabel": 0}
+{"transactionId": 5540406860, "basket": [0, 4, 4, 1, 1, 2, 4, 0], "zipCode": 5698, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 1536313689, "basket": [1, 5, 0, 2], "zipCode": 6432, "totalAmount": 212, "returnLabel": 0}
+{"transactionId": 8271019484, "basket": [3, 0, 3, 5, 1, 2], "zipCode": 4399, "totalAmount": 246, "returnLabel": 0}
+{"transactionId": 9607668692, "basket": [1], "zipCode": 9554, "totalAmount": 10, "returnLabel": 0}
+{"transactionId": 7959395935, "basket": [3, 2, 4, 4, 4, 4], "zipCode": 9460, "totalAmount": 402, "returnLabel": 0}
+{"transactionId": 3436606226, "basket": [4, 0, 1, 3, 1, 4, 3], "zipCode": 9870, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 8751167433, "basket": [4, 0], "zipCode": 5851, "totalAmount": 98, "returnLabel": 0}
+{"transactionId": 2614867213, "basket": [1, 2, 1, 2, 1, 2, 4, 1], "zipCode": 2404, "totalAmount": 736, "returnLabel": 0}
+{"transactionId": 6719812266, "basket": [2, 4, 4, 3, 1, 2], "zipCode": 2663, "totalAmount": 162, "returnLabel": 0}
+{"transactionId": 5489087111, "basket": [3], "zipCode": 7636, "totalAmount": 63, "returnLabel": 0}
+{"transactionId": 5490823577, "basket": [1, 1, 3, 0], "zipCode": 9983, "totalAmount": 296, "returnLabel": 0}
+{"transactionId": 1854162708, "basket": [3, 0, 5], "zipCode": 4775, "totalAmount": 51, "returnLabel": 0}
+{"transactionId": 6624107534, "basket": [2], "zipCode": 5474, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 4326235032, "basket": [5, 5, 0, 1, 1], "zipCode": 1595, "totalAmount": 375, "returnLabel": 0}
+{"transactionId": 8669106529, "basket": [3, 4, 3], "zipCode": 9170, "totalAmount": 126, "returnLabel": 0}
+{"transactionId": 2817980499, "basket": [0, 3, 1, 0, 3], "zipCode": 7709, "totalAmount": 255, "returnLabel": 0}
+{"transactionId": 5872230994, "basket": [1, 0, 3], "zipCode": 4924, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 2597208126, "basket": [4, 0], "zipCode": 8805, "totalAmount": 20, "returnLabel": 0}
+{"transactionId": 7946457797, "basket": [0, 0, 0, 3, 1, 1, 0, 1, 1], "zipCode": 9445, "totalAmount": 450, "returnLabel": 0}
+{"transactionId": 4033582951, "basket": [4, 3, 5, 3, 0, 5, 1, 4], "zipCode": 7784, "totalAmount": 544, "returnLabel": 0}
+{"transactionId": 8809144106, "basket": [4, 3, 4, 4, 2, 4, 1, 4, 4, 4, 1, 4], "zipCode": 3931, "totalAmount": 1188, "returnLabel": 1}
+{"transactionId": 6578142970, "basket": [0, 0, 3, 3], "zipCode": 7796, "totalAmount": 208, "returnLabel": 0}
+{"transactionId": 2080970093, "basket": [1, 1, 0, 1, 5], "zipCode": 9663, "totalAmount": 220, "returnLabel": 0}
+{"transactionId": 3403195789, "basket": [1, 4, 0], "zipCode": 9830, "totalAmount": 102, "returnLabel": 0}
+{"transactionId": 5214460332, "basket": [3, 1, 5, 1, 5, 5, 0], "zipCode": 9750, "totalAmount": 140, "returnLabel": 0}
+{"transactionId": 1159997545, "basket": [4, 4, 5, 5, 3, 0, 2, 4, 3], "zipCode": 4207, "totalAmount": 540, "returnLabel": 0}
+{"transactionId": 7863820228, "basket": [2, 5, 0, 5, 4, 1, 2, 4, 3, 0, 5], "zipCode": 2715, "totalAmount": 165, "returnLabel": 0}
+{"transactionId": 1737452841, "basket": [0, 2, 1], "zipCode": 6004, "totalAmount": 180, "returnLabel": 0}
+{"transactionId": 1484734938, "basket": [3, 0], "zipCode": 9318, "totalAmount": 72, "returnLabel": 0}
+{"transactionId": 1606479256, "basket": [0, 1, 4, 3, 1], "zipCode": 3900, "totalAmount": 385, "returnLabel": 0}
+{"transactionId": 4809335520, "basket": [1, 4, 1, 4, 1, 0, 4, 3, 1], "zipCode": 8247, "totalAmount": 90, "returnLabel": 0}
+{"transactionId": 4016412564, "basket": [4, 3, 4, 3, 0, 0, 0, 4], "zipCode": 9110, "totalAmount": 560, "returnLabel": 0}
+{"transactionId": 5947268004, "basket": [2, 1, 5, 3], "zipCode": 8634, "totalAmount": 300, "returnLabel": 0}
+{"transactionId": 1254009933, "basket": [4, 0, 5, 4, 3, 0], "zipCode": 4308, "totalAmount": 672, "returnLabel": 0}
+{"transactionId": 7593426396, "basket": [3, 5, 0, 0, 4, 2, 4, 0], "zipCode": 4308, "totalAmount": 584, "returnLabel": 0}
+{"transactionId": 9333695753, "basket": [1, 1, 2, 1, 3, 2, 4, 2, 5, 5, 1], "zipCode": 6950, "totalAmount": 968, "returnLabel": 0}
+{"transactionId": 1493973428, "basket": [1, 2, 5, 2, 1, 4, 5], "zipCode": 1765, "totalAmount": 672, "returnLabel": 0}
+{"transactionId": 6482302890, "basket": [1, 3, 1, 2, 4, 5, 4, 5, 0, 2, 4, 1, 3], "zipCode": 4069, "totalAmount": 390, "returnLabel": 0}
+{"transactionId": 6994565091, "basket": [1, 0, 2, 3, 4, 5], "zipCode": 5924, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 2877460620, "basket": [5], "zipCode": 5491, "totalAmount": 47, "returnLabel": 0}
+{"transactionId": 3066620448, "basket": [1, 1], "zipCode": 8700, "totalAmount": 144, "returnLabel": 0}
+{"transactionId": 4596972851, "basket": [4], "zipCode": 4973, "totalAmount": 37, "returnLabel": 1}
+{"transactionId": 2538388745, "basket": [5, 4, 2, 2, 3, 3, 0, 0, 5], "zipCode": 3657, "totalAmount": 1341, "returnLabel": 0}
+{"transactionId": 2048633816, "basket": [2, 0, 0], "zipCode": 5887, "totalAmount": 111, "returnLabel": 0}
+{"transactionId": 9022739225, "basket": [1, 0, 0], "zipCode": 7409, "totalAmount": 63, "returnLabel": 0}
+{"transactionId": 3529952793, "basket": [1, 1, 0, 5, 4], "zipCode": 6501, "totalAmount": 370, "returnLabel": 0}
+{"transactionId": 9386641625, "basket": [4, 2, 3, 1, 0, 2, 4, 4, 0], "zipCode": 9065, "totalAmount": 630, "returnLabel": 0}
+{"transactionId": 3402239118, "basket": [0, 0, 0, 0, 2, 3, 0, 0, 2, 3], "zipCode": 4873, "totalAmount": 290, "returnLabel": 0}
+{"transactionId": 9552888778, "basket": [2, 3, 0, 0, 0], "zipCode": 2934, "totalAmount": 50, "returnLabel": 0}
+{"transactionId": 5410735017, "basket": [3], "zipCode": 9216, "totalAmount": 35, "returnLabel": 0}
+{"transactionId": 7161154074, "basket": [4], "zipCode": 2452, "totalAmount": 70, "returnLabel": 1}
+{"transactionId": 5841143750, "basket": [5, 3, 5, 4, 0], "zipCode": 4727, "totalAmount": 250, "returnLabel": 0}
+{"transactionId": 6947844768, "basket": [4, 0, 4, 1, 2, 5, 1, 4], "zipCode": 3025, "totalAmount": 648, "returnLabel": 0}
+{"transactionId": 6064314629, "basket": [2, 3, 0, 4], "zipCode": 7298, "totalAmount": 360, "returnLabel": 0}
+{"transactionId": 2325279422, "basket": [2, 1, 1, 5], "zipCode": 2502, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 9857333203, "basket": [1, 3, 2, 1, 3, 5, 2, 5, 0, 3], "zipCode": 5428, "totalAmount": 1100, "returnLabel": 0}
+{"transactionId": 3531676985, "basket": [2, 4, 2, 0, 5, 3, 0, 0], "zipCode": 9196, "totalAmount": 320, "returnLabel": 0}
+{"transactionId": 6516883368, "basket": [4, 5, 2], "zipCode": 5960, "totalAmount": 66, "returnLabel": 0}
+{"transactionId": 8378094083, "basket": [2, 0, 5, 1, 1, 5, 3, 0, 2], "zipCode": 5976, "totalAmount": 315, "returnLabel": 0}
+{"transactionId": 3788225216, "basket": [1, 0, 0], "zipCode": 8494, "totalAmount": 81, "returnLabel": 0}
+{"transactionId": 7302565209, "basket": [2, 0, 3, 4, 3], "zipCode": 3894, "totalAmount": 200, "returnLabel": 0}
+{"transactionId": 4755586612, "basket": [0, 0, 1, 5, 5], "zipCode": 5155, "totalAmount": 275, "returnLabel": 0}
+{"transactionId": 3396582755, "basket": [4], "zipCode": 1158, "totalAmount": 64, "returnLabel": 0}
+{"transactionId": 9418709598, "basket": [5, 2, 3], "zipCode": 1502, "totalAmount": 78, "returnLabel": 0}
+{"transactionId": 5661079967, "basket": [5, 0, 3, 2, 1, 2], "zipCode": 1119, "totalAmount": 324, "returnLabel": 0}
+{"transactionId": 7735590488, "basket": [2], "zipCode": 1286, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 8508480757, "basket": [2, 0, 3], "zipCode": 4165, "totalAmount": 177, "returnLabel": 0}
+{"transactionId": 3710134652, "basket": [2, 1], "zipCode": 8592, "totalAmount": 20, "returnLabel": 0}
+{"transactionId": 4853551879, "basket": [3, 1, 1, 1, 3, 2, 2], "zipCode": 6901, "totalAmount": 518, "returnLabel": 0}
+{"transactionId": 7820690554, "basket": [5, 0, 5, 1], "zipCode": 2648, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 4078383273, "basket": [3, 4, 4, 2], "zipCode": 8274, "totalAmount": 224, "returnLabel": 1}
+{"transactionId": 1499556021, "basket": [0, 5, 2, 3, 0, 1], "zipCode": 8866, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 1359110295, "basket": [0], "zipCode": 5347, "totalAmount": 78, "returnLabel": 0}
+{"transactionId": 9987257665, "basket": [0, 3, 1, 5, 3, 5], "zipCode": 4473, "totalAmount": 336, "returnLabel": 0}
+{"transactionId": 2188558480, "basket": [0, 5, 2, 3], "zipCode": 8146, "totalAmount": 260, "returnLabel": 0}
+{"transactionId": 6109154096, "basket": [2, 2, 4, 2, 2, 4], "zipCode": 4008, "totalAmount": 96, "returnLabel": 0}
+{"transactionId": 2146178389, "basket": [4, 5, 2, 1, 2, 0, 0, 5], "zipCode": 2462, "totalAmount": 464, "returnLabel": 0}
+{"transactionId": 9433623134, "basket": [1, 3, 4, 5, 2], "zipCode": 5948, "totalAmount": 230, "returnLabel": 0}
+{"transactionId": 4023898369, "basket": [4, 4], "zipCode": 1165, "totalAmount": 126, "returnLabel": 0}
+{"transactionId": 2937594134, "basket": [4, 5, 0, 0], "zipCode": 9383, "totalAmount": 120, "returnLabel": 0}
+{"transactionId": 8501003770, "basket": [0, 4], "zipCode": 9207, "totalAmount": 64, "returnLabel": 0}
+{"transactionId": 8645521034, "basket": [0, 2, 0, 3, 4, 1, 2, 3, 5], "zipCode": 4618, "totalAmount": 792, "returnLabel": 0}
+{"transactionId": 5578929811, "basket": [5, 3, 0, 4, 5], "zipCode": 4421, "totalAmount": 145, "returnLabel": 0}
+{"transactionId": 3851986840, "basket": [1, 1, 4], "zipCode": 6823, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 7235842345, "basket": [1, 5, 0, 3], "zipCode": 7100, "totalAmount": 160, "returnLabel": 0}
+{"transactionId": 3922001321, "basket": [3, 0, 4, 4, 0, 5], "zipCode": 6542, "totalAmount": 234, "returnLabel": 0}
+{"transactionId": 8648260011, "basket": [1, 4], "zipCode": 5367, "totalAmount": 108, "returnLabel": 0}
+{"transactionId": 2486013948, "basket": [4, 1, 1, 0, 0], "zipCode": 4252, "totalAmount": 245, "returnLabel": 0}
+{"transactionId": 8400606129, "basket": [5, 2, 3, 4], "zipCode": 9152, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 1804566315, "basket": [3, 4], "zipCode": 7692, "totalAmount": 204, "returnLabel": 0}
+{"transactionId": 8539115800, "basket": [4, 2, 2, 5, 4, 2], "zipCode": 5307, "totalAmount": 204, "returnLabel": 0}
+{"transactionId": 6434209397, "basket": [2, 1, 4], "zipCode": 2359, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 2023729401, "basket": [2], "zipCode": 7947, "totalAmount": 17, "returnLabel": 0}
+{"transactionId": 3326030883, "basket": [3, 5, 2, 1, 0], "zipCode": 3273, "totalAmount": 395, "returnLabel": 0}
+{"transactionId": 5881029593, "basket": [2], "zipCode": 1191, "totalAmount": 112, "returnLabel": 0}
+{"transactionId": 3704531855, "basket": [1, 4, 5, 0, 5], "zipCode": 9228, "totalAmount": 265, "returnLabel": 0}
+{"transactionId": 1323610720, "basket": [4, 0, 3, 4, 1, 2], "zipCode": 9016, "totalAmount": 96, "returnLabel": 0}
+{"transactionId": 2654010383, "basket": [5, 4, 2, 1], "zipCode": 1353, "totalAmount": 380, "returnLabel": 0}
+{"transactionId": 1056999090, "basket": [4, 1, 1, 3, 1], "zipCode": 4849, "totalAmount": 255, "returnLabel": 0}
+{"transactionId": 9914566433, "basket": [3], "zipCode": 5510, "totalAmount": 59, "returnLabel": 0}
+{"transactionId": 7321114976, "basket": [5, 3, 4, 4, 2, 2, 0, 5], "zipCode": 8751, "totalAmount": 296, "returnLabel": 0}
+{"transactionId": 1502474135, "basket": [3, 1, 5, 0, 1, 5, 3], "zipCode": 5755, "totalAmount": 658, "returnLabel": 0}
+{"transactionId": 5596901226, "basket": [4, 4], "zipCode": 7546, "totalAmount": 106, "returnLabel": 0}
+{"transactionId": 1208748677, "basket": [3, 1, 4, 1, 3, 5], "zipCode": 1260, "totalAmount": 558, "returnLabel": 0}
+{"transactionId": 5464329471, "basket": [5], "zipCode": 9471, "totalAmount": 69, "returnLabel": 0}
+{"transactionId": 7244201406, "basket": [2, 0, 3, 4], "zipCode": 2858, "totalAmount": 196, "returnLabel": 0}
+{"transactionId": 3156082703, "basket": [2, 3, 3, 1, 0, 4, 5, 1, 0, 1], "zipCode": 3261, "totalAmount": 100, "returnLabel": 0}
+{"transactionId": 1709291794, "basket": [3, 0, 4, 2, 1, 0], "zipCode": 6282, "totalAmount": 168, "returnLabel": 0}
+{"transactionId": 2192626024, "basket": [2, 4, 3, 1, 1, 2, 0, 2, 0], "zipCode": 8065, "totalAmount": 864, "returnLabel": 0}
+{"transactionId": 2480945839, "basket": [5], "zipCode": 6804, "totalAmount": 41, "returnLabel": 0}
+{"transactionId": 6428271255, "basket": [1, 0, 2], "zipCode": 9307, "totalAmount": 207, "returnLabel": 0}
+{"transactionId": 3185555762, "basket": [0, 4, 2, 1, 4, 0, 5, 2], "zipCode": 7668, "totalAmount": 648, "returnLabel": 0}
+{"transactionId": 3918433334, "basket": [1], "zipCode": 6341, "totalAmount": 74, "returnLabel": 0}
+{"transactionId": 7142612851, "basket": [1, 0, 0, 5, 0, 0, 0, 2], "zipCode": 7144, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 5821211968, "basket": [4, 4, 0, 4, 1, 5, 4, 3], "zipCode": 8828, "totalAmount": 240, "returnLabel": 0}
+{"transactionId": 1369880804, "basket": [5, 2, 3, 4, 5, 0, 1], "zipCode": 5977, "totalAmount": 238, "returnLabel": 0}
+{"transactionId": 4180296052, "basket": [3, 3, 4, 4, 4], "zipCode": 6854, "totalAmount": 375, "returnLabel": 1}
+{"transactionId": 2084163374, "basket": [2, 2, 4, 4, 1, 5, 4, 5, 1, 0], "zipCode": 7051, "totalAmount": 330, "returnLabel": 0}
+{"transactionId": 6081025022, "basket": [4, 0, 5, 4, 5], "zipCode": 9193, "totalAmount": 370, "returnLabel": 0}
+{"transactionId": 5324622099, "basket": [2, 3], "zipCode": 1846, "totalAmount": 38, "returnLabel": 0}
+{"transactionId": 2378621785, "basket": [1, 4, 2, 3], "zipCode": 3203, "totalAmount": 292, "returnLabel": 0}
+{"transactionId": 9971390437, "basket": [0, 1], "zipCode": 2751, "totalAmount": 98, "returnLabel": 0}
+{"transactionId": 9668277545, "basket": [1, 4, 4, 5, 3, 5, 3], "zipCode": 5356, "totalAmount": 322, "returnLabel": 0}
+{"transactionId": 9069790038, "basket": [2, 1, 5, 4], "zipCode": 5997, "totalAmount": 200, "returnLabel": 0}
+{"transactionId": 7074829570, "basket": [1], "zipCode": 7423, "totalAmount": 10, "returnLabel": 0}
+{"transactionId": 6686676028, "basket": [0, 5, 5], "zipCode": 6654, "totalAmount": 159, "returnLabel": 0}
+{"transactionId": 1668953241, "basket": [1], "zipCode": 9087, "totalAmount": 63, "returnLabel": 0}
+{"transactionId": 1983335815, "basket": [2, 5, 1, 2, 1, 0, 5], "zipCode": 2606, "totalAmount": 504, "returnLabel": 0}
+{"transactionId": 6186881214, "basket": [2, 3, 3, 0, 1], "zipCode": 4985, "totalAmount": 135, "returnLabel": 0}
+{"transactionId": 7911292190, "basket": [3, 1, 4, 1, 5], "zipCode": 6514, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 5112137180, "basket": [4, 1, 5, 3], "zipCode": 5580, "totalAmount": 136, "returnLabel": 0}
+{"transactionId": 4336793057, "basket": [0, 3, 5, 1, 3], "zipCode": 3062, "totalAmount": 270, "returnLabel": 0}
+{"transactionId": 3583994237, "basket": [3, 5], "zipCode": 7796, "totalAmount": 20, "returnLabel": 0}
+{"transactionId": 3400938425, "basket": [4, 2, 1, 0, 2, 2, 2, 1, 4], "zipCode": 9034, "totalAmount": 90, "returnLabel": 0}
+{"transactionId": 8776743260, "basket": [0, 5, 3, 3, 4, 5, 5], "zipCode": 2738, "totalAmount": 399, "returnLabel": 0}
+{"transactionId": 7010904358, "basket": [1, 2, 5, 5, 5, 4], "zipCode": 3518, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 8874836592, "basket": [1, 1, 4, 0], "zipCode": 5922, "totalAmount": 300, "returnLabel": 0}
+{"transactionId": 7273398781, "basket": [4, 5, 3, 5], "zipCode": 7706, "totalAmount": 140, "returnLabel": 0}
+{"transactionId": 1271296108, "basket": [2], "zipCode": 8949, "totalAmount": 72, "returnLabel": 0}
+{"transactionId": 8544868263, "basket": [5, 1, 5], "zipCode": 6672, "totalAmount": 78, "returnLabel": 0}
+{"transactionId": 3535252612, "basket": [1, 1, 3, 3, 5, 2], "zipCode": 2943, "totalAmount": 216, "returnLabel": 0}
+{"transactionId": 9251506091, "basket": [1, 4, 5, 4, 2, 0, 5, 0], "zipCode": 3085, "totalAmount": 224, "returnLabel": 0}
+{"transactionId": 3474475447, "basket": [4, 3, 1, 1, 5, 5], "zipCode": 4508, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 9283177251, "basket": [1, 1, 5, 0, 0], "zipCode": 3861, "totalAmount": 205, "returnLabel": 0}
+{"transactionId": 7862577760, "basket": [4], "zipCode": 2007, "totalAmount": 36, "returnLabel": 0}
+{"transactionId": 4698657216, "basket": [3, 0, 1, 3, 3, 1], "zipCode": 5091, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 7523958072, "basket": [5, 0, 5, 3, 3, 5, 5, 1], "zipCode": 2295, "totalAmount": 360, "returnLabel": 0}
+{"transactionId": 9302736580, "basket": [1, 4, 3], "zipCode": 5115, "totalAmount": 39, "returnLabel": 0}
+{"transactionId": 1943917776, "basket": [4, 1, 2, 2, 2, 2, 1], "zipCode": 8435, "totalAmount": 182, "returnLabel": 0}
+{"transactionId": 7595355905, "basket": [5, 2, 3, 0], "zipCode": 7094, "totalAmount": 608, "returnLabel": 0}
+{"transactionId": 7847214440, "basket": [3, 3, 2, 0, 5, 4, 4], "zipCode": 8521, "totalAmount": 742, "returnLabel": 0}
+{"transactionId": 5658028328, "basket": [1, 2, 3], "zipCode": 6556, "totalAmount": 237, "returnLabel": 1}
+{"transactionId": 6041305186, "basket": [3], "zipCode": 6666, "totalAmount": 89, "returnLabel": 0}
+{"transactionId": 6060638504, "basket": [5, 0, 1, 1], "zipCode": 7714, "totalAmount": 248, "returnLabel": 0}
+{"transactionId": 3602302999, "basket": [4], "zipCode": 6615, "totalAmount": 78, "returnLabel": 0}
+{"transactionId": 9465122842, "basket": [5, 1, 5], "zipCode": 4538, "totalAmount": 219, "returnLabel": 0}
+{"transactionId": 9103659742, "basket": [3, 3, 3, 1, 1, 3, 2], "zipCode": 9752, "totalAmount": 175, "returnLabel": 0}
+{"transactionId": 8248152306, "basket": [5, 0, 4, 1, 3], "zipCode": 6087, "totalAmount": 110, "returnLabel": 0}
+{"transactionId": 4091080965, "basket": [1, 1, 3, 3, 4, 0, 3], "zipCode": 6598, "totalAmount": 455, "returnLabel": 0}
+{"transactionId": 7258669794, "basket": [5, 2, 1, 0, 1], "zipCode": 1647, "totalAmount": 225, "returnLabel": 0}
+{"transactionId": 7281317544, "basket": [0, 4, 4], "zipCode": 7236, "totalAmount": 114, "returnLabel": 0}
+{"transactionId": 2000249038, "basket": [3], "zipCode": 5183, "totalAmount": 16, "returnLabel": 0}
+{"transactionId": 3336303418, "basket": [4], "zipCode": 2227, "totalAmount": 110, "returnLabel": 0}
+{"transactionId": 3716013475, "basket": [5, 5, 4, 0, 1, 2, 3, 2, 1], "zipCode": 4589, "totalAmount": 495, "returnLabel": 0}
+{"transactionId": 8936960494, "basket": [0, 2, 3, 1, 2, 0], "zipCode": 6389, "totalAmount": 234, "returnLabel": 0}
+{"transactionId": 7232877306, "basket": [5, 0, 5, 0, 3, 0, 5, 3, 5, 0, 3, 3], "zipCode": 6363, "totalAmount": 612, "returnLabel": 0}
+{"transactionId": 4967351521, "basket": [2, 5, 3, 2, 4], "zipCode": 8108, "totalAmount": 185, "returnLabel": 0}
+{"transactionId": 9106101456, "basket": [4], "zipCode": 2607, "totalAmount": 52, "returnLabel": 0}
+{"transactionId": 1696542058, "basket": [5, 1, 4, 5, 1], "zipCode": 6877, "totalAmount": 290, "returnLabel": 0}
+{"transactionId": 5930888043, "basket": [5, 4, 4, 2, 2, 0, 4], "zipCode": 9536, "totalAmount": 546, "returnLabel": 0}
+{"transactionId": 4395669983, "basket": [0, 2, 1, 1, 5, 0, 2, 3], "zipCode": 5576, "totalAmount": 672, "returnLabel": 0}
+{"transactionId": 6875057599, "basket": [3, 1, 1, 1, 1, 0, 1, 5], "zipCode": 1113, "totalAmount": 752, "returnLabel": 0}
+{"transactionId": 2649893244, "basket": [3, 5], "zipCode": 6429, "totalAmount": 236, "returnLabel": 0}
+{"transactionId": 5584066657, "basket": [0, 1, 4, 0, 0, 3, 2, 2, 0, 1], "zipCode": 2889, "totalAmount": 970, "returnLabel": 0}
+{"transactionId": 8796463096, "basket": [3, 4], "zipCode": 6408, "totalAmount": 198, "returnLabel": 0}
+{"transactionId": 6045756055, "basket": [3, 3, 1, 5, 4], "zipCode": 5904, "totalAmount": 520, "returnLabel": 0}
+{"transactionId": 5990466631, "basket": [2, 2, 2, 2, 1, 1, 0, 0, 3, 0, 3], "zipCode": 9866, "totalAmount": 418, "returnLabel": 0}
+{"transactionId": 7342313397, "basket": [4], "zipCode": 1282, "totalAmount": 86, "returnLabel": 0}
+{"transactionId": 3778372825, "basket": [3, 5, 1, 1, 3, 3, 1], "zipCode": 2662, "totalAmount": 434, "returnLabel": 0}
+{"transactionId": 8204162390, "basket": [1, 0, 1, 0, 3, 2, 2], "zipCode": 1391, "totalAmount": 392, "returnLabel": 0}
+{"transactionId": 9699826647, "basket": [2, 5, 3, 2, 3, 5, 3, 2, 4], "zipCode": 7986, "totalAmount": 90, "returnLabel": 0}
+{"transactionId": 3666066751, "basket": [1, 4, 4, 0, 1], "zipCode": 3061, "totalAmount": 335, "returnLabel": 0}
+{"transactionId": 8064648606, "basket": [4, 2, 0], "zipCode": 8307, "totalAmount": 177, "returnLabel": 0}
+{"transactionId": 2202175220, "basket": [5, 2, 3], "zipCode": 7195, "totalAmount": 183, "returnLabel": 0}
+{"transactionId": 8686033645, "basket": [1, 0, 3, 4, 5, 5, 1, 3], "zipCode": 8174, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 2642061255, "basket": [5, 0, 2, 2, 0], "zipCode": 6046, "totalAmount": 530, "returnLabel": 0}
+{"transactionId": 3745955874, "basket": [2, 3, 0, 4, 3, 5], "zipCode": 9193, "totalAmount": 396, "returnLabel": 0}
+{"transactionId": 6433154100, "basket": [0, 2, 1, 1, 3, 2], "zipCode": 2169, "totalAmount": 516, "returnLabel": 0}
+{"transactionId": 5109778398, "basket": [0, 3, 3, 5, 3, 3], "zipCode": 9995, "totalAmount": 546, "returnLabel": 0}
+{"transactionId": 1618512992, "basket": [5, 2], "zipCode": 8999, "totalAmount": 158, "returnLabel": 0}
+{"transactionId": 3287189759, "basket": [3, 2, 3, 1, 5, 0], "zipCode": 4058, "totalAmount": 84, "returnLabel": 0}
+{"transactionId": 2189226835, "basket": [2, 3, 2, 3, 5, 1, 5, 0], "zipCode": 7313, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 8957358596, "basket": [3, 1, 5, 2, 5, 5, 5], "zipCode": 3450, "totalAmount": 609, "returnLabel": 0}
+{"transactionId": 2603350079, "basket": [5, 4, 5, 2, 2], "zipCode": 3668, "totalAmount": 185, "returnLabel": 0}
+{"transactionId": 6336843949, "basket": [5, 5, 4, 0, 4], "zipCode": 9268, "totalAmount": 190, "returnLabel": 0}
+{"transactionId": 3319433045, "basket": [3, 1, 4, 0], "zipCode": 5023, "totalAmount": 196, "returnLabel": 0}
+{"transactionId": 8027994910, "basket": [1, 3, 2, 0, 4], "zipCode": 4095, "totalAmount": 175, "returnLabel": 0}
+{"transactionId": 7514579234, "basket": [0], "zipCode": 7275, "totalAmount": 22, "returnLabel": 0}
+{"transactionId": 7481903640, "basket": [2, 5, 1], "zipCode": 7395, "totalAmount": 192, "returnLabel": 0}
+{"transactionId": 2299187789, "basket": [3, 4, 2, 2, 4, 3, 4, 5], "zipCode": 5996, "totalAmount": 160, "returnLabel": 0}
+{"transactionId": 7948034310, "basket": [3, 0, 5, 1, 0, 4, 4], "zipCode": 5615, "totalAmount": 308, "returnLabel": 0}
+{"transactionId": 3005231673, "basket": [0, 2, 2, 0, 0, 2, 5, 4, 3], "zipCode": 7012, "totalAmount": 432, "returnLabel": 0}
+{"transactionId": 7408489906, "basket": [1, 3, 3, 1, 4, 0, 0], "zipCode": 9855, "totalAmount": 189, "returnLabel": 0}
+{"transactionId": 5301661951, "basket": [1, 2, 5, 1, 2, 2, 5, 3, 2], "zipCode": 5442, "totalAmount": 531, "returnLabel": 0}
+{"transactionId": 3683942543, "basket": [2, 4, 0, 5, 3, 3, 1, 2], "zipCode": 6122, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 4863395401, "basket": [0, 5, 3, 5, 1, 5], "zipCode": 5907, "totalAmount": 162, "returnLabel": 0}
+{"transactionId": 9199981358, "basket": [0, 1, 5, 3, 0, 1, 4, 2], "zipCode": 1156, "totalAmount": 312, "returnLabel": 0}
+{"transactionId": 7053630780, "basket": [0, 2], "zipCode": 8986, "totalAmount": 20, "returnLabel": 0}
+{"transactionId": 9010623662, "basket": [2, 3], "zipCode": 7395, "totalAmount": 136, "returnLabel": 0}
+{"transactionId": 5076571770, "basket": [5], "zipCode": 6993, "totalAmount": 50, "returnLabel": 0}
+{"transactionId": 5258528206, "basket": [0, 5, 1, 5, 0, 5], "zipCode": 6505, "totalAmount": 150, "returnLabel": 0}
+{"transactionId": 3138607537, "basket": [1, 4, 1, 1, 4], "zipCode": 7072, "totalAmount": 275, "returnLabel": 0}
+{"transactionId": 5227342159, "basket": [3, 5, 5, 0, 5, 4, 0, 0, 0], "zipCode": 5855, "totalAmount": 1188, "returnLabel": 0}
+{"transactionId": 4977521496, "basket": [1, 4, 1, 3, 0], "zipCode": 8682, "totalAmount": 155, "returnLabel": 0}
+{"transactionId": 3476514825, "basket": [4], "zipCode": 8798, "totalAmount": 28, "returnLabel": 0}
+{"transactionId": 1410804093, "basket": [5, 2, 3, 3, 5, 3, 1], "zipCode": 1416, "totalAmount": 175, "returnLabel": 0}
+{"transactionId": 8828052884, "basket": [5, 3, 4, 0], "zipCode": 9755, "totalAmount": 152, "returnLabel": 0}
+{"transactionId": 3444370248, "basket": [0, 3, 2], "zipCode": 1628, "totalAmount": 96, "returnLabel": 0}
+{"transactionId": 2768745372, "basket": [4, 2], "zipCode": 9079, "totalAmount": 50, "returnLabel": 0}
+{"transactionId": 9399347518, "basket": [5], "zipCode": 1272, "totalAmount": 26, "returnLabel": 0}
+{"transactionId": 9982016629, "basket": [4, 5, 2, 1], "zipCode": 5264, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 7932910755, "basket": [3], "zipCode": 5038, "totalAmount": 10, "returnLabel": 0}
+{"transactionId": 4269277770, "basket": [2, 3, 4, 3, 3, 4, 4], "zipCode": 7519, "totalAmount": 686, "returnLabel": 0}
+{"transactionId": 8332844541, "basket": [2, 1, 1, 3, 5, 3, 1, 4, 0], "zipCode": 2310, "totalAmount": 297, "returnLabel": 0}
+{"transactionId": 7035465150, "basket": [1, 3, 2, 4, 4, 2], "zipCode": 8031, "totalAmount": 162, "returnLabel": 0}
+{"transactionId": 2302523785, "basket": [3, 2, 2, 5, 5, 2, 3], "zipCode": 2384, "totalAmount": 623, "returnLabel": 0}
+{"transactionId": 3885717080, "basket": [1, 2, 3, 3, 3, 4, 4], "zipCode": 5461, "totalAmount": 714, "returnLabel": 1}
+{"transactionId": 1182377537, "basket": [5, 5, 4, 3, 2], "zipCode": 5807, "totalAmount": 140, "returnLabel": 0}
+{"transactionId": 5976177916, "basket": [4, 5, 5, 5, 5], "zipCode": 3259, "totalAmount": 385, "returnLabel": 0}
+{"transactionId": 7148513656, "basket": [1, 4, 4, 0, 2], "zipCode": 7324, "totalAmount": 50, "returnLabel": 0}
+{"transactionId": 9811244096, "basket": [1, 3, 2], "zipCode": 4045, "totalAmount": 96, "returnLabel": 0}
+{"transactionId": 7043868059, "basket": [0, 4, 0, 2, 0], "zipCode": 6409, "totalAmount": 145, "returnLabel": 0}
+{"transactionId": 4841113314, "basket": [5, 1], "zipCode": 2930, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 1468311809, "basket": [3, 5, 1], "zipCode": 5895, "totalAmount": 114, "returnLabel": 0}
+{"transactionId": 9825176149, "basket": [4, 0, 4], "zipCode": 5402, "totalAmount": 183, "returnLabel": 0}
+{"transactionId": 3420681824, "basket": [1, 4, 4, 4], "zipCode": 1559, "totalAmount": 132, "returnLabel": 1}
+{"transactionId": 9042576721, "basket": [1, 1, 0, 5, 4, 3, 2, 2], "zipCode": 3838, "totalAmount": 200, "returnLabel": 0}
+{"transactionId": 3377701802, "basket": [4, 5, 2, 4, 3], "zipCode": 3024, "totalAmount": 150, "returnLabel": 0}
+{"transactionId": 2687052146, "basket": [5, 0], "zipCode": 1438, "totalAmount": 170, "returnLabel": 0}
+{"transactionId": 4130382688, "basket": [2, 1, 4, 4], "zipCode": 7306, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 4802271729, "basket": [3], "zipCode": 8978, "totalAmount": 44, "returnLabel": 0}
+{"transactionId": 7912401759, "basket": [1, 5, 4], "zipCode": 4345, "totalAmount": 135, "returnLabel": 0}
+{"transactionId": 7266092094, "basket": [2, 2], "zipCode": 8677, "totalAmount": 58, "returnLabel": 0}
+{"transactionId": 5144493504, "basket": [2, 5, 1, 2], "zipCode": 1972, "totalAmount": 180, "returnLabel": 0}
+{"transactionId": 2337601301, "basket": [1, 2], "zipCode": 8651, "totalAmount": 206, "returnLabel": 0}
+{"transactionId": 9648771080, "basket": [4, 0, 4], "zipCode": 8296, "totalAmount": 222, "returnLabel": 0}
+{"transactionId": 2901766922, "basket": [4, 5, 3, 0, 4, 2, 1, 4], "zipCode": 3930, "totalAmount": 336, "returnLabel": 0}
+{"transactionId": 9750093234, "basket": [5, 1, 5, 4, 0, 3], "zipCode": 5416, "totalAmount": 408, "returnLabel": 0}
+{"transactionId": 9022945119, "basket": [4, 3, 2, 3, 3], "zipCode": 6738, "totalAmount": 470, "returnLabel": 0}
+{"transactionId": 1723105256, "basket": [5], "zipCode": 6378, "totalAmount": 21, "returnLabel": 0}
+{"transactionId": 7369341279, "basket": [1], "zipCode": 3352, "totalAmount": 55, "returnLabel": 0}
+{"transactionId": 8681396567, "basket": [5, 5, 1, 1], "zipCode": 6651, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 7890593489, "basket": [4, 2, 5, 3, 1], "zipCode": 2829, "totalAmount": 215, "returnLabel": 0}
+{"transactionId": 3712968578, "basket": [4], "zipCode": 6409, "totalAmount": 33, "returnLabel": 0}
+{"transactionId": 4421483136, "basket": [3], "zipCode": 9175, "totalAmount": 16, "returnLabel": 0}
+{"transactionId": 7215529176, "basket": [5, 2, 1, 0, 3, 0, 2, 4, 5, 3], "zipCode": 3731, "totalAmount": 740, "returnLabel": 0}
+{"transactionId": 9615366796, "basket": [2, 5], "zipCode": 2330, "totalAmount": 20, "returnLabel": 0}
+{"transactionId": 2234552081, "basket": [4, 4, 5, 3], "zipCode": 8431, "totalAmount": 404, "returnLabel": 0}
+{"transactionId": 7212639121, "basket": [0, 5, 0, 3, 5], "zipCode": 4797, "totalAmount": 345, "returnLabel": 0}
+{"transactionId": 1844823159, "basket": [5, 3, 1], "zipCode": 3295, "totalAmount": 180, "returnLabel": 0}
+{"transactionId": 2139024849, "basket": [1, 4], "zipCode": 5835, "totalAmount": 148, "returnLabel": 0}
+{"transactionId": 7530337160, "basket": [1, 3, 2, 2], "zipCode": 1305, "totalAmount": 248, "returnLabel": 0}
+{"transactionId": 7489902684, "basket": [4, 3, 3, 0], "zipCode": 5789, "totalAmount": 296, "returnLabel": 0}
+{"transactionId": 5949591848, "basket": [1], "zipCode": 4262, "totalAmount": 57, "returnLabel": 0}
+{"transactionId": 2070267653, "basket": [0, 2, 2, 1], "zipCode": 6900, "totalAmount": 180, "returnLabel": 0}
+{"transactionId": 6455970488, "basket": [4, 5, 5, 1, 1, 4, 1, 2, 4], "zipCode": 6872, "totalAmount": 468, "returnLabel": 0}
+{"transactionId": 6733023038, "basket": [4, 4, 2, 0, 1, 3, 3, 3], "zipCode": 9399, "totalAmount": 368, "returnLabel": 0}
+{"transactionId": 5437839438, "basket": [3, 5, 3, 2, 3], "zipCode": 7348, "totalAmount": 290, "returnLabel": 0}
+{"transactionId": 3275932431, "basket": [4, 5, 1, 0, 1, 4, 1, 2, 4], "zipCode": 7895, "totalAmount": 306, "returnLabel": 0}
+{"transactionId": 7616671614, "basket": [5, 5, 0, 4, 3, 5, 2, 4, 4, 1], "zipCode": 3656, "totalAmount": 490, "returnLabel": 0}
+{"transactionId": 6922817530, "basket": [1, 1, 1, 3, 2], "zipCode": 6560, "totalAmount": 240, "returnLabel": 0}
+{"transactionId": 6491705461, "basket": [4, 0, 3, 5, 4, 4], "zipCode": 3435, "totalAmount": 156, "returnLabel": 0}
+{"transactionId": 2836799489, "basket": [1, 3, 0, 2], "zipCode": 8799, "totalAmount": 216, "returnLabel": 0}
+{"transactionId": 6410895453, "basket": [4, 2, 5, 1, 4, 2, 4, 1, 4, 4], "zipCode": 3408, "totalAmount": 570, "returnLabel": 0}
+{"transactionId": 6772746166, "basket": [5], "zipCode": 8834, "totalAmount": 28, "returnLabel": 0}
+{"transactionId": 3394211829, "basket": [0, 5], "zipCode": 1223, "totalAmount": 58, "returnLabel": 0}
+{"transactionId": 3339586600, "basket": [2, 3, 4], "zipCode": 3279, "totalAmount": 84, "returnLabel": 0}
+{"transactionId": 9227430885, "basket": [2, 3, 1, 4, 4, 2], "zipCode": 2576, "totalAmount": 552, "returnLabel": 0}
+{"transactionId": 3904314391, "basket": [2, 3, 4, 0], "zipCode": 2943, "totalAmount": 148, "returnLabel": 0}
+{"transactionId": 7179433603, "basket": [3, 3, 4, 3], "zipCode": 8660, "totalAmount": 208, "returnLabel": 0}
+{"transactionId": 5424108543, "basket": [5, 4, 0, 5], "zipCode": 4271, "totalAmount": 104, "returnLabel": 0}
+{"transactionId": 7064989900, "basket": [0, 3, 4, 1, 0], "zipCode": 9992, "totalAmount": 235, "returnLabel": 0}
+{"transactionId": 9195626743, "basket": [4], "zipCode": 4837, "totalAmount": 46, "returnLabel": 0}
+{"transactionId": 8491764734, "basket": [5, 4, 2, 4], "zipCode": 6741, "totalAmount": 280, "returnLabel": 0}
+{"transactionId": 3547339584, "basket": [2, 1, 0, 5, 0, 5], "zipCode": 8691, "totalAmount": 360, "returnLabel": 0}
+{"transactionId": 9076024237, "basket": [3], "zipCode": 7529, "totalAmount": 58, "returnLabel": 0}
+{"transactionId": 8774643163, "basket": [4, 0, 3, 0, 1], "zipCode": 2899, "totalAmount": 355, "returnLabel": 0}
+{"transactionId": 8057302214, "basket": [2, 0, 5, 2, 4, 2, 2], "zipCode": 8662, "totalAmount": 280, "returnLabel": 0}
+{"transactionId": 2416309686, "basket": [1, 0, 0], "zipCode": 6818, "totalAmount": 210, "returnLabel": 0}
+{"transactionId": 6453747273, "basket": [3, 3, 5, 3, 0, 4, 3, 1], "zipCode": 2875, "totalAmount": 392, "returnLabel": 0}
+{"transactionId": 2258764808, "basket": [2, 3, 1], "zipCode": 9322, "totalAmount": 108, "returnLabel": 0}
+{"transactionId": 3714614535, "basket": [0, 1, 3, 4], "zipCode": 2799, "totalAmount": 252, "returnLabel": 0}
+{"transactionId": 5271330330, "basket": [3], "zipCode": 4970, "totalAmount": 35, "returnLabel": 0}
+{"transactionId": 9255871914, "basket": [3], "zipCode": 1024, "totalAmount": 72, "returnLabel": 0}
+{"transactionId": 2039764083, "basket": [3], "zipCode": 5414, "totalAmount": 39, "returnLabel": 0}
+{"transactionId": 8081584625, "basket": [4], "zipCode": 2598, "totalAmount": 11, "returnLabel": 0}
+{"transactionId": 4649599969, "basket": [1, 5, 5, 3], "zipCode": 7711, "totalAmount": 324, "returnLabel": 0}
+{"transactionId": 7922311471, "basket": [2, 3], "zipCode": 1713, "totalAmount": 24, "returnLabel": 0}
+{"transactionId": 2539634020, "basket": [5, 4], "zipCode": 8683, "totalAmount": 220, "returnLabel": 0}
+{"transactionId": 7503727564, "basket": [3, 4, 5, 1, 1, 2, 1, 3, 0], "zipCode": 8888, "totalAmount": 558, "returnLabel": 0}
+{"transactionId": 6467778309, "basket": [4, 5], "zipCode": 6887, "totalAmount": 72, "returnLabel": 0}
+{"transactionId": 2204851424, "basket": [1, 5, 3, 5], "zipCode": 5230, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 5690942953, "basket": [5, 1, 4, 2, 0, 5, 3, 1], "zipCode": 6621, "totalAmount": 744, "returnLabel": 0}
+{"transactionId": 6755308303, "basket": [4, 1, 5, 2, 4, 2, 0, 4], "zipCode": 3648, "totalAmount": 280, "returnLabel": 0}
+{"transactionId": 8494929649, "basket": [3, 4, 1, 3], "zipCode": 5287, "totalAmount": 420, "returnLabel": 0}
+{"transactionId": 1255591068, "basket": [2, 4, 0], "zipCode": 9112, "totalAmount": 81, "returnLabel": 0}
+{"transactionId": 2734112581, "basket": [2, 0, 0, 0, 5], "zipCode": 7300, "totalAmount": 220, "returnLabel": 0}
+{"transactionId": 5538106818, "basket": [2], "zipCode": 5663, "totalAmount": 35, "returnLabel": 0}
+{"transactionId": 1155752852, "basket": [5], "zipCode": 1881, "totalAmount": 23, "returnLabel": 0}
+{"transactionId": 1913153690, "basket": [0, 0, 5, 1, 3, 4], "zipCode": 7012, "totalAmount": 150, "returnLabel": 0}
+{"transactionId": 4523859480, "basket": [3, 4, 4, 1, 2, 1, 2], "zipCode": 9566, "totalAmount": 357, "returnLabel": 0}
+{"transactionId": 1556508812, "basket": [5, 5, 3, 2, 0, 5, 3, 2], "zipCode": 3390, "totalAmount": 264, "returnLabel": 0}
+{"transactionId": 5027792973, "basket": [5, 2], "zipCode": 2664, "totalAmount": 144, "returnLabel": 0}
+{"transactionId": 5310736606, "basket": [5, 5, 4, 4, 1], "zipCode": 4504, "totalAmount": 50, "returnLabel": 0}
+{"transactionId": 2467872176, "basket": [1, 2, 4, 0, 2, 1, 0, 5], "zipCode": 8583, "totalAmount": 200, "returnLabel": 0}
+{"transactionId": 7484871321, "basket": [4, 0, 0, 4, 0, 3, 0, 4, 3], "zipCode": 8195, "totalAmount": 873, "returnLabel": 0}
+{"transactionId": 9614377653, "basket": [3], "zipCode": 3586, "totalAmount": 33, "returnLabel": 0}
+{"transactionId": 7102773441, "basket": [4, 5, 4, 3, 4, 2, 5, 0, 0, 2], "zipCode": 8669, "totalAmount": 120, "returnLabel": 0}
+{"transactionId": 8322064820, "basket": [1, 0, 2, 1, 2, 3], "zipCode": 4815, "totalAmount": 300, "returnLabel": 0}
+{"transactionId": 3108492863, "basket": [3], "zipCode": 8164, "totalAmount": 52, "returnLabel": 0}
+{"transactionId": 5890023210, "basket": [5, 0, 4, 2, 4, 3, 4, 5], "zipCode": 4456, "totalAmount": 376, "returnLabel": 0}
+{"transactionId": 8418008534, "basket": [2, 1, 5, 0, 2, 3, 3, 0], "zipCode": 8522, "totalAmount": 368, "returnLabel": 0}
+{"transactionId": 1344674776, "basket": [1, 5, 3, 4, 4, 5, 3], "zipCode": 8307, "totalAmount": 364, "returnLabel": 0}
+{"transactionId": 3983323696, "basket": [1], "zipCode": 1548, "totalAmount": 95, "returnLabel": 1}
+{"transactionId": 4097487967, "basket": [3, 2, 2, 1], "zipCode": 3775, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 9916208664, "basket": [5, 3, 5, 5], "zipCode": 2228, "totalAmount": 108, "returnLabel": 0}
+{"transactionId": 8452657603, "basket": [1, 3, 3, 4, 5], "zipCode": 1493, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 2475543329, "basket": [1, 4, 5, 2, 4, 1, 0], "zipCode": 2095, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 1149636399, "basket": [2, 2, 1, 5, 2, 4], "zipCode": 4687, "totalAmount": 156, "returnLabel": 0}
+{"transactionId": 6800972010, "basket": [4], "zipCode": 2431, "totalAmount": 28, "returnLabel": 0}
+{"transactionId": 6456475685, "basket": [3, 5, 4], "zipCode": 1820, "totalAmount": 267, "returnLabel": 0}
+{"transactionId": 7300439624, "basket": [4, 5, 1], "zipCode": 7957, "totalAmount": 222, "returnLabel": 0}
+{"transactionId": 3254180242, "basket": [2, 0, 5, 5], "zipCode": 9373, "totalAmount": 324, "returnLabel": 0}
+{"transactionId": 7808503738, "basket": [1, 2], "zipCode": 8648, "totalAmount": 72, "returnLabel": 0}
+{"transactionId": 4323226379, "basket": [5, 3, 1, 3], "zipCode": 3313, "totalAmount": 120, "returnLabel": 0}
+{"transactionId": 9947838682, "basket": [0, 4], "zipCode": 4541, "totalAmount": 20, "returnLabel": 0}
+{"transactionId": 7527139251, "basket": [4, 4, 3], "zipCode": 2946, "totalAmount": 189, "returnLabel": 0}
+{"transactionId": 8232218194, "basket": [3], "zipCode": 1634, "totalAmount": 35, "returnLabel": 0}
+{"transactionId": 1422340375, "basket": [0, 1, 2, 3, 5, 4], "zipCode": 9574, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 2045179461, "basket": [3, 2, 5, 4, 1, 4], "zipCode": 7141, "totalAmount": 450, "returnLabel": 0}
+{"transactionId": 2976606081, "basket": [0, 3, 1, 3, 3, 2, 5], "zipCode": 7248, "totalAmount": 308, "returnLabel": 0}
+{"transactionId": 7377632924, "basket": [1, 0, 0, 1, 2], "zipCode": 8702, "totalAmount": 185, "returnLabel": 0}
+{"transactionId": 6727420203, "basket": [1, 5, 1, 5], "zipCode": 5958, "totalAmount": 192, "returnLabel": 0}
+{"transactionId": 3916158461, "basket": [1, 5, 2], "zipCode": 7934, "totalAmount": 198, "returnLabel": 0}
+{"transactionId": 1910199056, "basket": [5, 0, 1], "zipCode": 6614, "totalAmount": 171, "returnLabel": 0}
+{"transactionId": 8887601734, "basket": [2, 0, 5, 0, 2], "zipCode": 2871, "totalAmount": 305, "returnLabel": 0}
+{"transactionId": 2278271504, "basket": [4, 5, 2, 3, 1, 2, 1], "zipCode": 9903, "totalAmount": 399, "returnLabel": 0}
+{"transactionId": 4091604946, "basket": [0], "zipCode": 4344, "totalAmount": 102, "returnLabel": 0}
+{"transactionId": 4750124729, "basket": [0], "zipCode": 4282, "totalAmount": 114, "returnLabel": 0}
+{"transactionId": 8943332540, "basket": [3, 4, 4, 5], "zipCode": 1417, "totalAmount": 212, "returnLabel": 0}
+{"transactionId": 8331211137, "basket": [2, 1, 3, 4, 1, 2, 5], "zipCode": 5231, "totalAmount": 350, "returnLabel": 0}
+{"transactionId": 1510921470, "basket": [1, 4], "zipCode": 5178, "totalAmount": 62, "returnLabel": 0}
+{"transactionId": 7545644378, "basket": [0, 0, 2, 1, 1], "zipCode": 4162, "totalAmount": 225, "returnLabel": 0}
+{"transactionId": 2009620151, "basket": [2, 5, 4, 2, 4, 1, 4, 4], "zipCode": 4577, "totalAmount": 880, "returnLabel": 0}
+{"transactionId": 4490273768, "basket": [4], "zipCode": 2765, "totalAmount": 71, "returnLabel": 0}
+{"transactionId": 4079520730, "basket": [1, 4, 0, 4, 5], "zipCode": 2437, "totalAmount": 155, "returnLabel": 0}
+{"transactionId": 6634987847, "basket": [3, 0, 3, 4, 5, 5, 3], "zipCode": 3939, "totalAmount": 588, "returnLabel": 0}
+{"transactionId": 8757854295, "basket": [2, 3, 0, 5, 1, 3, 2, 4, 4], "zipCode": 3682, "totalAmount": 315, "returnLabel": 0}
+{"transactionId": 4626297684, "basket": [4], "zipCode": 8817, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 3328702275, "basket": [5, 5, 0, 0, 0, 3, 1], "zipCode": 8199, "totalAmount": 84, "returnLabel": 0}
+{"transactionId": 3879828431, "basket": [3, 2, 1, 1], "zipCode": 6093, "totalAmount": 92, "returnLabel": 0}
+{"transactionId": 8650728675, "basket": [2, 3, 3, 4, 2, 5, 5], "zipCode": 9167, "totalAmount": 224, "returnLabel": 0}
+{"transactionId": 2852024987, "basket": [1, 2, 3, 5, 3, 5, 2], "zipCode": 8658, "totalAmount": 308, "returnLabel": 0}
+{"transactionId": 2141128434, "basket": [4, 3, 4, 5, 3, 4, 2, 3], "zipCode": 7770, "totalAmount": 416, "returnLabel": 0}
+{"transactionId": 5617495157, "basket": [5, 1, 4, 0, 0, 0, 2], "zipCode": 3700, "totalAmount": 504, "returnLabel": 0}
+{"transactionId": 9526870327, "basket": [5, 3, 3, 0, 5, 3], "zipCode": 4178, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 7843391474, "basket": [4, 2], "zipCode": 8328, "totalAmount": 20, "returnLabel": 0}
+{"transactionId": 7510676480, "basket": [1, 5, 4, 4, 5, 1, 1, 0, 3], "zipCode": 9517, "totalAmount": 621, "returnLabel": 0}
+{"transactionId": 1852565120, "basket": [4, 5, 5, 3, 0, 3, 3], "zipCode": 5615, "totalAmount": 497, "returnLabel": 0}
+{"transactionId": 4737852272, "basket": [0, 4, 3, 1], "zipCode": 8709, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 2777469320, "basket": [2, 0], "zipCode": 1036, "totalAmount": 56, "returnLabel": 0}
+{"transactionId": 8844552894, "basket": [1, 1, 3, 2], "zipCode": 1731, "totalAmount": 268, "returnLabel": 0}
+{"transactionId": 4910520773, "basket": [4, 0, 1, 5, 5, 5, 0], "zipCode": 6518, "totalAmount": 126, "returnLabel": 0}
+{"transactionId": 9488451945, "basket": [3, 2, 2, 0, 4, 1, 4], "zipCode": 5630, "totalAmount": 189, "returnLabel": 0}
+{"transactionId": 1853694284, "basket": [3, 1, 5, 5, 2], "zipCode": 9932, "totalAmount": 85, "returnLabel": 0}
+{"transactionId": 7734137038, "basket": [3, 3, 3, 5], "zipCode": 8905, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 1148123293, "basket": [1], "zipCode": 4549, "totalAmount": 122, "returnLabel": 0}
+{"transactionId": 3031743080, "basket": [4, 4, 4, 4, 2, 1, 1], "zipCode": 1852, "totalAmount": 308, "returnLabel": 0}
+{"transactionId": 7976804009, "basket": [3, 2, 1, 1, 5, 4, 0], "zipCode": 5891, "totalAmount": 273, "returnLabel": 0}
+{"transactionId": 1635349531, "basket": [3, 5, 3], "zipCode": 9003, "totalAmount": 273, "returnLabel": 0}
+{"transactionId": 4458292811, "basket": [0, 2, 0, 1, 2], "zipCode": 8156, "totalAmount": 260, "returnLabel": 0}
+{"transactionId": 6803592683, "basket": [0, 0, 3], "zipCode": 8517, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 6546618425, "basket": [0], "zipCode": 5825, "totalAmount": 43, "returnLabel": 0}
+{"transactionId": 7719858139, "basket": [5, 2, 0, 2, 4, 2], "zipCode": 4682, "totalAmount": 582, "returnLabel": 0}
+{"transactionId": 8666566483, "basket": [2, 4, 4], "zipCode": 8071, "totalAmount": 39, "returnLabel": 0}
+{"transactionId": 2380099679, "basket": [3, 2, 3, 5, 3], "zipCode": 6061, "totalAmount": 300, "returnLabel": 0}
+{"transactionId": 1202078964, "basket": [0, 3, 1], "zipCode": 2684, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 9329708452, "basket": [5, 3, 4, 5, 3, 5, 0, 1], "zipCode": 9777, "totalAmount": 416, "returnLabel": 0}
+{"transactionId": 8563595271, "basket": [5, 5, 0, 4, 1, 2, 1, 0, 4], "zipCode": 6029, "totalAmount": 396, "returnLabel": 0}
+{"transactionId": 8481218734, "basket": [2, 2, 2, 3, 1], "zipCode": 6752, "totalAmount": 500, "returnLabel": 0}
+{"transactionId": 5806839433, "basket": [5, 4, 3, 5, 3, 4], "zipCode": 3681, "totalAmount": 462, "returnLabel": 0}
+{"transactionId": 4733240594, "basket": [1, 3, 5, 2], "zipCode": 2251, "totalAmount": 52, "returnLabel": 0}
+{"transactionId": 3304777723, "basket": [5, 4, 0, 1], "zipCode": 1348, "totalAmount": 228, "returnLabel": 0}
+{"transactionId": 2791427298, "basket": [4, 4], "zipCode": 4939, "totalAmount": 110, "returnLabel": 0}
+{"transactionId": 5205147944, "basket": [4, 0, 4, 1], "zipCode": 5321, "totalAmount": 96, "returnLabel": 0}
+{"transactionId": 7735687101, "basket": [3, 5, 5], "zipCode": 9088, "totalAmount": 33, "returnLabel": 0}
+{"transactionId": 5730446163, "basket": [2, 3, 2], "zipCode": 3306, "totalAmount": 285, "returnLabel": 0}
+{"transactionId": 5777278124, "basket": [0, 5, 1, 4, 2, 1, 4], "zipCode": 8526, "totalAmount": 490, "returnLabel": 0}
+{"transactionId": 2239251620, "basket": [1, 5, 3, 4], "zipCode": 7254, "totalAmount": 264, "returnLabel": 0}
+{"transactionId": 9381866675, "basket": [5, 5, 5, 1, 3, 2, 2, 1, 3], "zipCode": 4466, "totalAmount": 891, "returnLabel": 0}
+{"transactionId": 6365991191, "basket": [1, 0], "zipCode": 3758, "totalAmount": 50, "returnLabel": 0}
+{"transactionId": 2417212009, "basket": [2, 5, 2, 1], "zipCode": 8752, "totalAmount": 252, "returnLabel": 0}
+{"transactionId": 5045381013, "basket": [4, 2, 4, 5], "zipCode": 4752, "totalAmount": 140, "returnLabel": 0}
+{"transactionId": 4792632241, "basket": [4], "zipCode": 8328, "totalAmount": 15, "returnLabel": 0}
+{"transactionId": 3805070246, "basket": [0, 2, 4, 2, 1], "zipCode": 8574, "totalAmount": 200, "returnLabel": 0}
+{"transactionId": 1295127916, "basket": [0, 0, 1, 5, 3, 0, 5, 2, 5, 3], "zipCode": 9500, "totalAmount": 300, "returnLabel": 0}
+{"transactionId": 2629904390, "basket": [3, 2, 4, 1, 0, 5, 2], "zipCode": 8546, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 6550060707, "basket": [3, 1, 3, 4], "zipCode": 1666, "totalAmount": 376, "returnLabel": 1}
+{"transactionId": 9906938784, "basket": [0], "zipCode": 7339, "totalAmount": 81, "returnLabel": 0}
+{"transactionId": 3227480483, "basket": [3, 0, 2, 0, 5], "zipCode": 5751, "totalAmount": 85, "returnLabel": 0}
+{"transactionId": 7454049894, "basket": [2, 0, 5], "zipCode": 9857, "totalAmount": 45, "returnLabel": 0}
+{"transactionId": 7052458234, "basket": [2, 4, 4, 4, 4], "zipCode": 5526, "totalAmount": 170, "returnLabel": 0}
+{"transactionId": 9956710465, "basket": [3, 1, 4, 0, 1, 1, 3, 5], "zipCode": 4688, "totalAmount": 320, "returnLabel": 0}
+{"transactionId": 7700733098, "basket": [4, 0, 4, 5, 2, 2, 4, 4, 0], "zipCode": 5196, "totalAmount": 288, "returnLabel": 0}
+{"transactionId": 6837896871, "basket": [3, 0, 1], "zipCode": 3406, "totalAmount": 150, "returnLabel": 0}
+{"transactionId": 2455175429, "basket": [5, 5, 1, 2, 0, 3], "zipCode": 8951, "totalAmount": 306, "returnLabel": 0}
+{"transactionId": 2932977605, "basket": [5, 0, 3, 2, 0, 5, 3], "zipCode": 3636, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 3982135180, "basket": [1, 4, 3, 1], "zipCode": 8162, "totalAmount": 172, "returnLabel": 0}
+{"transactionId": 7509111165, "basket": [2, 4, 4], "zipCode": 7823, "totalAmount": 117, "returnLabel": 0}
+{"transactionId": 2548514998, "basket": [0], "zipCode": 3175, "totalAmount": 79, "returnLabel": 0}
+{"transactionId": 7555422916, "basket": [2, 0, 1, 5, 2, 0, 0, 1], "zipCode": 3265, "totalAmount": 488, "returnLabel": 0}
+{"transactionId": 7492856307, "basket": [5], "zipCode": 9455, "totalAmount": 49, "returnLabel": 0}
+{"transactionId": 4728537118, "basket": [1, 5], "zipCode": 8883, "totalAmount": 102, "returnLabel": 0}
+{"transactionId": 1414737918, "basket": [5, 3, 2, 3, 4, 5], "zipCode": 8356, "totalAmount": 558, "returnLabel": 0}
+{"transactionId": 7339354153, "basket": [1, 4, 1, 2], "zipCode": 5848, "totalAmount": 252, "returnLabel": 0}
+{"transactionId": 2777835589, "basket": [3, 0], "zipCode": 8821, "totalAmount": 110, "returnLabel": 0}
+{"transactionId": 6555738351, "basket": [2, 3, 5, 1, 5, 1, 3], "zipCode": 4099, "totalAmount": 133, "returnLabel": 0}
+{"transactionId": 7015016092, "basket": [4], "zipCode": 4050, "totalAmount": 95, "returnLabel": 0}
+{"transactionId": 9145845920, "basket": [0, 0, 0, 2, 4], "zipCode": 1819, "totalAmount": 420, "returnLabel": 0}
+{"transactionId": 2212850680, "basket": [1, 3, 3, 4, 1, 1], "zipCode": 4258, "totalAmount": 516, "returnLabel": 0}
+{"transactionId": 8935613634, "basket": [5, 0, 3, 5, 1, 4, 2, 1], "zipCode": 8322, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 8286201988, "basket": [3, 4, 3, 5], "zipCode": 2754, "totalAmount": 132, "returnLabel": 0}
+{"transactionId": 2543374771, "basket": [5], "zipCode": 9188, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 9635717034, "basket": [1], "zipCode": 7572, "totalAmount": 185, "returnLabel": 0}
+{"transactionId": 4033677593, "basket": [1, 5, 5], "zipCode": 6506, "totalAmount": 246, "returnLabel": 0}
+{"transactionId": 2944442229, "basket": [5, 4, 4, 3, 1, 5, 4], "zipCode": 7180, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 5689728675, "basket": [4, 0, 2, 0, 2, 2, 2, 0], "zipCode": 5162, "totalAmount": 224, "returnLabel": 0}
+{"transactionId": 5644216799, "basket": [4, 3, 0, 1, 5, 1, 1, 3], "zipCode": 6417, "totalAmount": 296, "returnLabel": 0}
+{"transactionId": 8192664602, "basket": [4, 4, 4, 3, 1], "zipCode": 7318, "totalAmount": 115, "returnLabel": 0}
+{"transactionId": 5352193981, "basket": [5, 4, 4, 3, 4, 3, 5, 1, 1, 4], "zipCode": 5184, "totalAmount": 210, "returnLabel": 0}
+{"transactionId": 2546574144, "basket": [2], "zipCode": 7896, "totalAmount": 66, "returnLabel": 0}
+{"transactionId": 3969653688, "basket": [0, 4, 3, 3, 3], "zipCode": 5239, "totalAmount": 175, "returnLabel": 0}
+{"transactionId": 8438586519, "basket": [4, 0, 0, 0, 1, 2, 2], "zipCode": 9607, "totalAmount": 518, "returnLabel": 0}
+{"transactionId": 4905999383, "basket": [0, 0, 0, 4, 5], "zipCode": 7265, "totalAmount": 470, "returnLabel": 0}
+{"transactionId": 3670756021, "basket": [2, 5, 1, 4, 0, 0, 3, 0, 1, 5], "zipCode": 3855, "totalAmount": 570, "returnLabel": 0}
+{"transactionId": 4675891927, "basket": [5, 5, 4], "zipCode": 9904, "totalAmount": 279, "returnLabel": 0}
+{"transactionId": 6946277983, "basket": [3, 0, 5], "zipCode": 4973, "totalAmount": 72, "returnLabel": 0}
+{"transactionId": 9119783604, "basket": [3, 1, 1], "zipCode": 9886, "totalAmount": 108, "returnLabel": 0}
+{"transactionId": 2042247287, "basket": [3, 5, 2], "zipCode": 9724, "totalAmount": 99, "returnLabel": 0}
+{"transactionId": 9377309002, "basket": [2, 1, 1, 3, 2, 2, 4, 1], "zipCode": 4386, "totalAmount": 296, "returnLabel": 0}
+{"transactionId": 7282267641, "basket": [0, 3, 4, 3], "zipCode": 7668, "totalAmount": 48, "returnLabel": 0}
+{"transactionId": 3056610886, "basket": [1], "zipCode": 8740, "totalAmount": 67, "returnLabel": 0}
+{"transactionId": 6845806718, "basket": [1, 2, 2, 0, 0, 4, 5, 0, 3, 1, 4], "zipCode": 5005, "totalAmount": 715, "returnLabel": 0}
+{"transactionId": 2945580993, "basket": [1, 4, 5, 2, 4, 5, 1, 2, 2], "zipCode": 8944, "totalAmount": 90, "returnLabel": 0}
+{"transactionId": 3455805296, "basket": [4, 4, 3], "zipCode": 2877, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 3070472589, "basket": [2, 3, 0, 3, 1, 4], "zipCode": 9327, "totalAmount": 270, "returnLabel": 0}
+{"transactionId": 7908174486, "basket": [2, 4, 2, 2], "zipCode": 3859, "totalAmount": 172, "returnLabel": 0}
+{"transactionId": 4234792709, "basket": [2, 3, 4, 3, 5, 2, 1, 0, 4], "zipCode": 6566, "totalAmount": 774, "returnLabel": 0}
+{"transactionId": 5975358679, "basket": [2, 0, 5], "zipCode": 8082, "totalAmount": 156, "returnLabel": 0}
+{"transactionId": 8648881426, "basket": [3, 5, 4], "zipCode": 9450, "totalAmount": 258, "returnLabel": 0}
+{"transactionId": 5721299471, "basket": [5, 3, 5, 4, 2, 0, 0, 2, 3], "zipCode": 7450, "totalAmount": 306, "returnLabel": 0}
+{"transactionId": 3365975339, "basket": [4, 1, 3, 5, 1, 4, 4, 1], "zipCode": 1857, "totalAmount": 720, "returnLabel": 0}
+{"transactionId": 3148728474, "basket": [3, 4, 4], "zipCode": 4581, "totalAmount": 165, "returnLabel": 0}
+{"transactionId": 1347886109, "basket": [0], "zipCode": 6229, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 1971377728, "basket": [0], "zipCode": 6234, "totalAmount": 29, "returnLabel": 0}
+{"transactionId": 9978622584, "basket": [5], "zipCode": 9046, "totalAmount": 66, "returnLabel": 0}
+{"transactionId": 6799205801, "basket": [0, 0, 3, 0], "zipCode": 8516, "totalAmount": 156, "returnLabel": 0}
+{"transactionId": 6447501482, "basket": [3], "zipCode": 6927, "totalAmount": 38, "returnLabel": 0}
+{"transactionId": 6409071717, "basket": [5, 2, 2, 0, 4], "zipCode": 9209, "totalAmount": 360, "returnLabel": 0}
+{"transactionId": 4511611916, "basket": [0, 0], "zipCode": 7599, "totalAmount": 32, "returnLabel": 0}
+{"transactionId": 4280357560, "basket": [5], "zipCode": 5791, "totalAmount": 10, "returnLabel": 0}
+{"transactionId": 7789073001, "basket": [1, 3, 4, 5], "zipCode": 8401, "totalAmount": 308, "returnLabel": 0}
+{"transactionId": 8690959759, "basket": [0, 1, 4, 2, 5, 1, 4], "zipCode": 5169, "totalAmount": 581, "returnLabel": 0}
+{"transactionId": 9620927667, "basket": [0, 4, 4, 4, 5, 4], "zipCode": 6718, "totalAmount": 606, "returnLabel": 0}
+{"transactionId": 4201176040, "basket": [5, 5, 3, 4, 5, 0, 2, 5, 4], "zipCode": 9914, "totalAmount": 378, "returnLabel": 0}
+{"transactionId": 7432992143, "basket": [0], "zipCode": 4179, "totalAmount": 92, "returnLabel": 0}
+{"transactionId": 1932764000, "basket": [1, 1, 2, 0], "zipCode": 9562, "totalAmount": 248, "returnLabel": 0}
+{"transactionId": 9705306113, "basket": [5, 3, 2, 3], "zipCode": 2349, "totalAmount": 152, "returnLabel": 0}
+{"transactionId": 1628966961, "basket": [2, 3, 3], "zipCode": 7363, "totalAmount": 54, "returnLabel": 0}
+{"transactionId": 3559088578, "basket": [3, 4, 0], "zipCode": 4320, "totalAmount": 177, "returnLabel": 0}
+{"transactionId": 1243909381, "basket": [5], "zipCode": 7918, "totalAmount": 106, "returnLabel": 0}
+{"transactionId": 9890619271, "basket": [5], "zipCode": 6084, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 6686163636, "basket": [2, 4, 1, 1, 5], "zipCode": 2270, "totalAmount": 325, "returnLabel": 0}
+{"transactionId": 3213127967, "basket": [3], "zipCode": 5313, "totalAmount": 11, "returnLabel": 0}
+{"transactionId": 7998973269, "basket": [1, 3, 1, 4, 3, 4, 1, 2, 3], "zipCode": 5780, "totalAmount": 198, "returnLabel": 0}
+{"transactionId": 1393864050, "basket": [0, 2, 3, 5, 3, 5], "zipCode": 9516, "totalAmount": 330, "returnLabel": 0}
+{"transactionId": 6961664665, "basket": [5, 0, 1, 1, 2, 3, 5, 1, 0, 5], "zipCode": 8690, "totalAmount": 390, "returnLabel": 0}
+{"transactionId": 6409095148, "basket": [0, 1, 1, 4, 1, 2, 5], "zipCode": 9458, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 2974314701, "basket": [2, 1, 2, 4, 0, 3], "zipCode": 3773, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 7563827554, "basket": [2, 0, 1, 4, 2, 4, 0, 2, 3, 5], "zipCode": 2087, "totalAmount": 560, "returnLabel": 0}
+{"transactionId": 6946553066, "basket": [5, 1], "zipCode": 6068, "totalAmount": 166, "returnLabel": 0}
+{"transactionId": 8742369760, "basket": [2, 5, 4], "zipCode": 7193, "totalAmount": 282, "returnLabel": 0}
+{"transactionId": 3043745631, "basket": [0, 0, 1, 2, 3], "zipCode": 1013, "totalAmount": 195, "returnLabel": 0}
+{"transactionId": 4617423804, "basket": [5], "zipCode": 5858, "totalAmount": 26, "returnLabel": 0}
+{"transactionId": 7900932148, "basket": [1], "zipCode": 6351, "totalAmount": 17, "returnLabel": 0}
+{"transactionId": 3050495460, "basket": [3, 4, 4, 4], "zipCode": 9726, "totalAmount": 152, "returnLabel": 0}
+{"transactionId": 2780731580, "basket": [4, 5], "zipCode": 4618, "totalAmount": 214, "returnLabel": 0}
+{"transactionId": 8433605371, "basket": [5, 1, 5, 1, 5, 1], "zipCode": 9381, "totalAmount": 240, "returnLabel": 0}
+{"transactionId": 2609292207, "basket": [2, 5, 1, 5], "zipCode": 3443, "totalAmount": 132, "returnLabel": 0}
+{"transactionId": 8385818033, "basket": [3, 5, 4, 2, 5, 5, 4, 2, 0, 4, 5], "zipCode": 5910, "totalAmount": 143, "returnLabel": 0}
+{"transactionId": 6130504451, "basket": [0, 0, 3, 1, 4, 0], "zipCode": 2560, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 7132089550, "basket": [1, 3, 0, 1], "zipCode": 6090, "totalAmount": 424, "returnLabel": 0}
+{"transactionId": 1544338145, "basket": [4, 1, 2, 5, 3, 0, 5, 4], "zipCode": 9954, "totalAmount": 208, "returnLabel": 0}
+{"transactionId": 2716162584, "basket": [2, 5, 1, 5], "zipCode": 5954, "totalAmount": 404, "returnLabel": 0}
+{"transactionId": 2476949528, "basket": [4, 4, 4, 2], "zipCode": 4131, "totalAmount": 200, "returnLabel": 0}
+{"transactionId": 6709103546, "basket": [4, 2, 3, 2, 3, 2, 3, 1, 5, 0], "zipCode": 5004, "totalAmount": 530, "returnLabel": 0}
+{"transactionId": 9401466802, "basket": [0, 1, 1, 2, 1, 1, 3], "zipCode": 9323, "totalAmount": 154, "returnLabel": 0}
+{"transactionId": 3218738796, "basket": [1, 4, 1, 3], "zipCode": 2888, "totalAmount": 272, "returnLabel": 0}
+{"transactionId": 1669104054, "basket": [0, 0, 4, 2, 3, 1, 0], "zipCode": 2349, "totalAmount": 294, "returnLabel": 0}
+{"transactionId": 9391712395, "basket": [1, 0, 1, 1, 2], "zipCode": 9994, "totalAmount": 50, "returnLabel": 0}
+{"transactionId": 5116967636, "basket": [1, 5, 0, 3, 0, 1], "zipCode": 4977, "totalAmount": 354, "returnLabel": 0}
+{"transactionId": 5655732046, "basket": [5, 2, 0], "zipCode": 3901, "totalAmount": 228, "returnLabel": 0}
+{"transactionId": 1051750049, "basket": [0, 5, 2], "zipCode": 7862, "totalAmount": 90, "returnLabel": 0}
+{"transactionId": 3518345008, "basket": [0, 5, 3, 3, 3, 5], "zipCode": 4004, "totalAmount": 438, "returnLabel": 0}
+{"transactionId": 3303716434, "basket": [1, 0, 4, 0], "zipCode": 2749, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 9797698858, "basket": [1, 3, 0, 2, 5, 2, 1, 3], "zipCode": 1705, "totalAmount": 272, "returnLabel": 0}
+{"transactionId": 9164939445, "basket": [4, 4, 0, 0], "zipCode": 8000, "totalAmount": 248, "returnLabel": 0}
+{"transactionId": 4951111034, "basket": [2, 2, 1, 5], "zipCode": 6814, "totalAmount": 224, "returnLabel": 0}
+{"transactionId": 7187205677, "basket": [2, 4, 0], "zipCode": 8788, "totalAmount": 276, "returnLabel": 0}
+{"transactionId": 4560190305, "basket": [3, 5], "zipCode": 7522, "totalAmount": 20, "returnLabel": 0}
+{"transactionId": 2867782745, "basket": [1, 2, 4, 5, 1, 3], "zipCode": 7813, "totalAmount": 516, "returnLabel": 0}
+{"transactionId": 2979178944, "basket": [3, 3, 3, 0, 0, 5, 5], "zipCode": 3145, "totalAmount": 238, "returnLabel": 0}
+{"transactionId": 2496425958, "basket": [0, 2, 1, 0], "zipCode": 5114, "totalAmount": 212, "returnLabel": 0}
+{"transactionId": 6015580202, "basket": [5, 1, 3], "zipCode": 9163, "totalAmount": 42, "returnLabel": 0}
+{"transactionId": 8083834828, "basket": [2], "zipCode": 4942, "totalAmount": 29, "returnLabel": 0}
+{"transactionId": 6333828101, "basket": [3, 2, 5, 5], "zipCode": 7536, "totalAmount": 148, "returnLabel": 0}
+{"transactionId": 1888097853, "basket": [5, 3, 5, 1], "zipCode": 7824, "totalAmount": 144, "returnLabel": 0}
+{"transactionId": 4185330978, "basket": [1, 4, 3, 1, 3], "zipCode": 4723, "totalAmount": 150, "returnLabel": 0}
+{"transactionId": 6692150371, "basket": [5], "zipCode": 9689, "totalAmount": 47, "returnLabel": 0}
+{"transactionId": 8613876153, "basket": [5, 1, 0, 4, 0, 5, 5, 1, 4, 1, 4], "zipCode": 6854, "totalAmount": 110, "returnLabel": 0}
+{"transactionId": 4535746624, "basket": [2, 1, 5, 4, 0], "zipCode": 9140, "totalAmount": 430, "returnLabel": 0}
+{"transactionId": 5098267533, "basket": [2], "zipCode": 4652, "totalAmount": 66, "returnLabel": 0}
+{"transactionId": 6061942586, "basket": [0, 1, 0, 0, 0], "zipCode": 2662, "totalAmount": 160, "returnLabel": 0}
+{"transactionId": 8817451890, "basket": [2, 0, 1, 3, 4, 4], "zipCode": 2952, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 1503258718, "basket": [3, 4, 4, 4, 0, 2], "zipCode": 9386, "totalAmount": 528, "returnLabel": 0}
+{"transactionId": 3941276538, "basket": [0, 4, 4, 5, 2, 3, 5], "zipCode": 8360, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 6563027554, "basket": [4, 0, 0, 3], "zipCode": 3767, "totalAmount": 400, "returnLabel": 0}
+{"transactionId": 6393595551, "basket": [2], "zipCode": 7151, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 3092604401, "basket": [0, 1, 3, 4], "zipCode": 9144, "totalAmount": 56, "returnLabel": 0}
+{"transactionId": 1365355827, "basket": [2, 2, 3, 3, 2, 0, 5], "zipCode": 4737, "totalAmount": 644, "returnLabel": 0}
+{"transactionId": 4145497982, "basket": [2, 1, 3, 1, 5, 1, 3], "zipCode": 1826, "totalAmount": 154, "returnLabel": 0}
+{"transactionId": 3415564567, "basket": [2, 1, 1], "zipCode": 5495, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 3453305593, "basket": [4, 2, 5, 0, 5, 5], "zipCode": 3663, "totalAmount": 234, "returnLabel": 0}
+{"transactionId": 8363035498, "basket": [4, 4, 3], "zipCode": 1934, "totalAmount": 387, "returnLabel": 1}
+{"transactionId": 3823484147, "basket": [5, 3, 0], "zipCode": 7187, "totalAmount": 210, "returnLabel": 0}
+{"transactionId": 1706977356, "basket": [3, 3, 3, 2, 4, 3, 1, 0], "zipCode": 3709, "totalAmount": 256, "returnLabel": 0}
+{"transactionId": 3005811346, "basket": [2, 4, 0, 3, 5, 2, 4], "zipCode": 6561, "totalAmount": 217, "returnLabel": 0}
+{"transactionId": 7182149256, "basket": [1], "zipCode": 5640, "totalAmount": 58, "returnLabel": 0}
+{"transactionId": 2326349438, "basket": [5, 0, 3, 3, 4, 4, 4, 4], "zipCode": 6494, "totalAmount": 160, "returnLabel": 0}
+{"transactionId": 4913599893, "basket": [2, 5, 2, 1, 2, 3, 5], "zipCode": 7712, "totalAmount": 168, "returnLabel": 0}
+{"transactionId": 5994470707, "basket": [2, 4, 2, 3, 5, 4, 4, 4, 5], "zipCode": 1646, "totalAmount": 405, "returnLabel": 0}
+{"transactionId": 6715165383, "basket": [3, 2], "zipCode": 8970, "totalAmount": 224, "returnLabel": 0}
+{"transactionId": 9197831196, "basket": [2, 0, 3, 0, 0, 4, 1], "zipCode": 8206, "totalAmount": 588, "returnLabel": 0}
+{"transactionId": 9325105376, "basket": [1, 1, 4, 4, 4, 1, 4, 1, 0], "zipCode": 4377, "totalAmount": 90, "returnLabel": 0}
+{"transactionId": 7081745940, "basket": [0, 3, 4, 2, 0, 3], "zipCode": 1343, "totalAmount": 408, "returnLabel": 0}
+{"transactionId": 9998114602, "basket": [0, 1, 4, 4, 3, 5, 5, 2], "zipCode": 7735, "totalAmount": 208, "returnLabel": 0}
+{"transactionId": 2346077129, "basket": [5, 2, 3, 3], "zipCode": 2880, "totalAmount": 240, "returnLabel": 0}
+{"transactionId": 3507699227, "basket": [3, 2], "zipCode": 6315, "totalAmount": 144, "returnLabel": 0}
+{"transactionId": 3698116915, "basket": [2, 2, 0, 2, 4, 2, 4], "zipCode": 3275, "totalAmount": 322, "returnLabel": 0}
+{"transactionId": 1702738111, "basket": [0, 2, 0, 5, 4, 4, 4], "zipCode": 4963, "totalAmount": 357, "returnLabel": 0}
+{"transactionId": 7119112342, "basket": [5, 2, 2, 5, 3, 5, 3], "zipCode": 3135, "totalAmount": 518, "returnLabel": 0}
+{"transactionId": 8433243103, "basket": [0, 0, 1, 5, 5, 3, 2], "zipCode": 5446, "totalAmount": 1008, "returnLabel": 0}
+{"transactionId": 3895075066, "basket": [2, 0, 2], "zipCode": 7907, "totalAmount": 51, "returnLabel": 0}
+{"transactionId": 5352265865, "basket": [1], "zipCode": 4100, "totalAmount": 57, "returnLabel": 1}
+{"transactionId": 8070961321, "basket": [4, 0, 3, 1, 3], "zipCode": 2246, "totalAmount": 165, "returnLabel": 0}
+{"transactionId": 4071073805, "basket": [4, 3, 1, 2], "zipCode": 9040, "totalAmount": 188, "returnLabel": 0}
+{"transactionId": 2273893470, "basket": [4, 1, 1, 2, 2, 2, 1], "zipCode": 8251, "totalAmount": 84, "returnLabel": 0}
+{"transactionId": 4805946908, "basket": [0], "zipCode": 9728, "totalAmount": 72, "returnLabel": 0}
+{"transactionId": 9993139858, "basket": [4, 3, 3, 2, 3], "zipCode": 3455, "totalAmount": 270, "returnLabel": 0}
+{"transactionId": 7233779056, "basket": [3, 1, 3, 4, 1, 4, 2, 4, 5], "zipCode": 1343, "totalAmount": 522, "returnLabel": 0}
+{"transactionId": 6320273985, "basket": [2, 4, 1, 3, 4, 0, 4, 2], "zipCode": 2873, "totalAmount": 520, "returnLabel": 0}
+{"transactionId": 6426134265, "basket": [2, 4, 3, 4, 4, 3], "zipCode": 3253, "totalAmount": 414, "returnLabel": 1}
+{"transactionId": 4122412798, "basket": [0, 3, 5], "zipCode": 6801, "totalAmount": 174, "returnLabel": 0}
+{"transactionId": 1388374439, "basket": [2, 1, 4, 0, 5, 4], "zipCode": 8464, "totalAmount": 84, "returnLabel": 0}
+{"transactionId": 2931366311, "basket": [2, 2, 0, 3, 1], "zipCode": 2644, "totalAmount": 645, "returnLabel": 0}
+{"transactionId": 1631570133, "basket": [0, 2], "zipCode": 9425, "totalAmount": 146, "returnLabel": 0}
+{"transactionId": 4192296982, "basket": [2], "zipCode": 2949, "totalAmount": 47, "returnLabel": 0}
+{"transactionId": 7741506567, "basket": [0, 1, 1, 4, 2, 5, 3], "zipCode": 5855, "totalAmount": 455, "returnLabel": 0}
+{"transactionId": 1319441085, "basket": [3, 2, 1, 2, 4], "zipCode": 9916, "totalAmount": 120, "returnLabel": 0}
+{"transactionId": 2508392611, "basket": [4, 3, 0, 0, 4, 0, 5], "zipCode": 4463, "totalAmount": 511, "returnLabel": 0}
+{"transactionId": 5727351157, "basket": [2, 0, 5, 4, 4, 2, 4, 5], "zipCode": 4756, "totalAmount": 232, "returnLabel": 0}
+{"transactionId": 2228175923, "basket": [3], "zipCode": 5680, "totalAmount": 74, "returnLabel": 0}
+{"transactionId": 6992500404, "basket": [5, 4, 0, 1], "zipCode": 8970, "totalAmount": 228, "returnLabel": 0}
+{"transactionId": 3489270127, "basket": [2, 5, 1, 4, 2], "zipCode": 5359, "totalAmount": 240, "returnLabel": 0}
+{"transactionId": 9832123738, "basket": [4, 2], "zipCode": 3779, "totalAmount": 20, "returnLabel": 0}
+{"transactionId": 4789820528, "basket": [1, 4, 2, 3, 2], "zipCode": 6665, "totalAmount": 125, "returnLabel": 0}
+{"transactionId": 2938010993, "basket": [4, 1, 0, 4, 3, 0, 2], "zipCode": 9234, "totalAmount": 315, "returnLabel": 0}
+{"transactionId": 8861893972, "basket": [1, 5, 5], "zipCode": 2027, "totalAmount": 180, "returnLabel": 0}
+{"transactionId": 3956325033, "basket": [4, 4, 5], "zipCode": 1127, "totalAmount": 294, "returnLabel": 0}
+{"transactionId": 1813875583, "basket": [4, 2, 1, 0, 2, 3], "zipCode": 5337, "totalAmount": 300, "returnLabel": 0}
+{"transactionId": 8508070434, "basket": [5], "zipCode": 7254, "totalAmount": 10, "returnLabel": 0}
+{"transactionId": 4108830496, "basket": [2, 2, 2, 1, 0, 2], "zipCode": 9654, "totalAmount": 354, "returnLabel": 0}
+{"transactionId": 2386612834, "basket": [3, 4, 2, 3], "zipCode": 6448, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 8156815287, "basket": [2, 5, 1], "zipCode": 9760, "totalAmount": 75, "returnLabel": 0}
+{"transactionId": 3881273790, "basket": [5], "zipCode": 3039, "totalAmount": 10, "returnLabel": 0}
+{"transactionId": 5230146194, "basket": [0, 0, 3, 5, 1, 2], "zipCode": 9942, "totalAmount": 216, "returnLabel": 0}
+{"transactionId": 2112172266, "basket": [5, 1, 2, 4, 2, 3], "zipCode": 6406, "totalAmount": 324, "returnLabel": 0}
+{"transactionId": 3656962424, "basket": [2, 4, 1, 2, 3, 4, 5, 0], "zipCode": 8010, "totalAmount": 776, "returnLabel": 0}
+{"transactionId": 8021991291, "basket": [3, 5, 3, 5, 3, 1, 4], "zipCode": 9118, "totalAmount": 98, "returnLabel": 0}
+{"transactionId": 1311391716, "basket": [5, 0, 3, 4, 2], "zipCode": 2025, "totalAmount": 535, "returnLabel": 0}
+{"transactionId": 6628187226, "basket": [4, 4, 1, 2, 5, 2, 0, 0, 1], "zipCode": 7214, "totalAmount": 306, "returnLabel": 0}
+{"transactionId": 4376634381, "basket": [1, 4, 4], "zipCode": 2495, "totalAmount": 351, "returnLabel": 0}
+{"transactionId": 3459692788, "basket": [3], "zipCode": 7275, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 8480413467, "basket": [2, 0, 5, 5, 4], "zipCode": 9626, "totalAmount": 380, "returnLabel": 0}
+{"transactionId": 1407800605, "basket": [2], "zipCode": 7777, "totalAmount": 13, "returnLabel": 0}
+{"transactionId": 6974718137, "basket": [5, 4, 2, 0, 3, 1], "zipCode": 2450, "totalAmount": 354, "returnLabel": 0}
+{"transactionId": 9794610127, "basket": [2, 3, 1, 2, 5, 3, 4, 3], "zipCode": 2163, "totalAmount": 328, "returnLabel": 0}
+{"transactionId": 9518617315, "basket": [4, 0, 4], "zipCode": 3040, "totalAmount": 153, "returnLabel": 0}
+{"transactionId": 6481766332, "basket": [0, 2, 1, 4, 1, 4, 5], "zipCode": 2654, "totalAmount": 476, "returnLabel": 0}
+{"transactionId": 3003443429, "basket": [4, 0, 3, 0], "zipCode": 9853, "totalAmount": 244, "returnLabel": 0}
+{"transactionId": 7916835587, "basket": [1, 0, 3, 5, 2, 5], "zipCode": 9566, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 8296096605, "basket": [0], "zipCode": 8805, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 3538477823, "basket": [0, 5, 4, 1, 4, 0, 3, 4], "zipCode": 8915, "totalAmount": 200, "returnLabel": 0}
+{"transactionId": 1278515644, "basket": [2, 1, 0, 5, 5, 3], "zipCode": 4941, "totalAmount": 234, "returnLabel": 0}
+{"transactionId": 9990339037, "basket": [4, 5, 4, 5, 0], "zipCode": 2059, "totalAmount": 430, "returnLabel": 0}
+{"transactionId": 6045512060, "basket": [3, 5, 2, 3, 4], "zipCode": 4902, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 5878792466, "basket": [4, 3, 5, 2, 5, 3, 3, 4], "zipCode": 9655, "totalAmount": 616, "returnLabel": 0}
+{"transactionId": 5559824820, "basket": [1, 2, 1, 1, 2, 4], "zipCode": 8901, "totalAmount": 300, "returnLabel": 0}
+{"transactionId": 1726407579, "basket": [5, 3, 2, 5, 2, 5, 1, 2], "zipCode": 3884, "totalAmount": 240, "returnLabel": 0}
+{"transactionId": 4381463357, "basket": [2, 4, 4], "zipCode": 3437, "totalAmount": 252, "returnLabel": 0}
+{"transactionId": 4674746799, "basket": [3, 5, 1, 4, 5, 5, 2], "zipCode": 5499, "totalAmount": 203, "returnLabel": 0}
+{"transactionId": 2813731329, "basket": [1, 4, 0, 4], "zipCode": 3862, "totalAmount": 200, "returnLabel": 0}
+{"transactionId": 2911293367, "basket": [3, 5, 0, 5, 4, 1, 1], "zipCode": 2531, "totalAmount": 686, "returnLabel": 0}
+{"transactionId": 4371814265, "basket": [2, 3], "zipCode": 5225, "totalAmount": 82, "returnLabel": 0}
+{"transactionId": 3661201640, "basket": [4, 2, 4, 3, 1, 0, 2], "zipCode": 4983, "totalAmount": 350, "returnLabel": 0}
+{"transactionId": 6014538048, "basket": [4, 1, 2, 0], "zipCode": 2566, "totalAmount": 456, "returnLabel": 0}
+{"transactionId": 1481345765, "basket": [5, 0], "zipCode": 6579, "totalAmount": 204, "returnLabel": 0}
+{"transactionId": 6704563675, "basket": [4, 1, 2, 2, 4], "zipCode": 2594, "totalAmount": 440, "returnLabel": 0}
+{"transactionId": 3028550101, "basket": [2, 2, 4, 3, 1], "zipCode": 5840, "totalAmount": 280, "returnLabel": 0}
+{"transactionId": 8163374863, "basket": [5, 1, 4, 1, 5], "zipCode": 6201, "totalAmount": 205, "returnLabel": 0}
+{"transactionId": 2769223305, "basket": [5], "zipCode": 8240, "totalAmount": 38, "returnLabel": 0}
+{"transactionId": 5551159588, "basket": [5, 2, 1], "zipCode": 4494, "totalAmount": 321, "returnLabel": 0}
+{"transactionId": 3830964589, "basket": [2, 5, 3, 4, 2, 0, 1], "zipCode": 5038, "totalAmount": 77, "returnLabel": 0}
+{"transactionId": 8236188466, "basket": [3, 2, 2, 1], "zipCode": 3915, "totalAmount": 48, "returnLabel": 0}
+{"transactionId": 4377934689, "basket": [5, 0, 5], "zipCode": 8796, "totalAmount": 282, "returnLabel": 0}
+{"transactionId": 9337323954, "basket": [5, 3, 5], "zipCode": 2125, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 4960850848, "basket": [1, 4, 0, 5, 1, 5], "zipCode": 3182, "totalAmount": 60, "returnLabel": 0}
+{"transactionId": 6855202152, "basket": [0, 1, 1, 4, 0, 3, 1], "zipCode": 7533, "totalAmount": 462, "returnLabel": 0}
+{"transactionId": 4600280258, "basket": [1, 1, 0, 4, 0, 2, 3, 1, 3, 1], "zipCode": 4882, "totalAmount": 260, "returnLabel": 0}
+{"transactionId": 3342404116, "basket": [4, 4, 0, 2, 0, 2, 5, 5], "zipCode": 1936, "totalAmount": 792, "returnLabel": 0}
+{"transactionId": 5530811108, "basket": [1, 3, 4, 3], "zipCode": 3544, "totalAmount": 364, "returnLabel": 0}
+{"transactionId": 3202032154, "basket": [4, 3], "zipCode": 4263, "totalAmount": 126, "returnLabel": 0}
+{"transactionId": 7872363073, "basket": [2, 1, 4, 4, 5, 0, 1, 4, 5, 2, 0], "zipCode": 2500, "totalAmount": 396, "returnLabel": 0}
+{"transactionId": 8972377181, "basket": [1, 3, 0, 3], "zipCode": 7296, "totalAmount": 160, "returnLabel": 0}
+{"transactionId": 4945846672, "basket": [2, 5, 5], "zipCode": 7387, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 4003958902, "basket": [3, 2], "zipCode": 8755, "totalAmount": 106, "returnLabel": 0}
+{"transactionId": 7722170009, "basket": [3, 0, 5, 3, 5, 3, 4], "zipCode": 9921, "totalAmount": 308, "returnLabel": 0}
+{"transactionId": 5565039889, "basket": [1, 2, 3, 5], "zipCode": 6057, "totalAmount": 280, "returnLabel": 0}
+{"transactionId": 8563650883, "basket": [4, 2, 4, 0, 5, 2, 3, 0], "zipCode": 2803, "totalAmount": 424, "returnLabel": 0}
+{"transactionId": 5415632050, "basket": [5], "zipCode": 9255, "totalAmount": 107, "returnLabel": 0}
+{"transactionId": 1395560703, "basket": [2, 3, 2, 2, 2, 1], "zipCode": 4055, "totalAmount": 222, "returnLabel": 0}
+{"transactionId": 4373982949, "basket": [3, 0], "zipCode": 6452, "totalAmount": 130, "returnLabel": 0}
+{"transactionId": 7586919721, "basket": [4, 3], "zipCode": 4865, "totalAmount": 230, "returnLabel": 0}
+{"transactionId": 5997089768, "basket": [1, 5, 0, 0, 2, 4, 1], "zipCode": 8718, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 4741475035, "basket": [2, 3, 3, 4, 4, 4], "zipCode": 9252, "totalAmount": 780, "returnLabel": 1}
+{"transactionId": 9805637472, "basket": [0, 5, 1], "zipCode": 2055, "totalAmount": 198, "returnLabel": 0}
+{"transactionId": 8371105010, "basket": [0], "zipCode": 2085, "totalAmount": 84, "returnLabel": 1}
+{"transactionId": 2143014684, "basket": [2, 3], "zipCode": 7609, "totalAmount": 132, "returnLabel": 0}
+{"transactionId": 6947052327, "basket": [0, 1, 1, 3], "zipCode": 6338, "totalAmount": 84, "returnLabel": 0}
+{"transactionId": 6216428005, "basket": [5, 0, 4, 4], "zipCode": 1099, "totalAmount": 56, "returnLabel": 0}
+{"transactionId": 7037836455, "basket": [2, 0, 4, 1, 1], "zipCode": 5128, "totalAmount": 125, "returnLabel": 0}
+{"transactionId": 3286892182, "basket": [5, 4, 1, 2, 1], "zipCode": 3345, "totalAmount": 260, "returnLabel": 0}
+{"transactionId": 1188574097, "basket": [3, 2, 3, 2, 3, 2, 2, 1], "zipCode": 4395, "totalAmount": 256, "returnLabel": 0}
+{"transactionId": 2833116373, "basket": [1, 3, 3, 0, 4, 0], "zipCode": 9179, "totalAmount": 102, "returnLabel": 0}
+{"transactionId": 7715251383, "basket": [1, 3, 1, 3], "zipCode": 1556, "totalAmount": 132, "returnLabel": 0}
+{"transactionId": 4948015684, "basket": [3, 1, 4, 3, 4, 3, 2, 2], "zipCode": 8275, "totalAmount": 408, "returnLabel": 0}
+{"transactionId": 5148471392, "basket": [1, 2, 3, 5, 4, 0, 0], "zipCode": 2124, "totalAmount": 217, "returnLabel": 0}
+{"transactionId": 2621715930, "basket": [1, 1, 3, 2, 3, 3, 2, 2, 2], "zipCode": 9459, "totalAmount": 666, "returnLabel": 0}
+{"transactionId": 9807932673, "basket": [4], "zipCode": 2181, "totalAmount": 44, "returnLabel": 0}
+{"transactionId": 7016263450, "basket": [2, 0, 3, 5, 1, 5, 0, 2, 1, 2, 4, 1, 2], "zipCode": 9493, "totalAmount": 247, "returnLabel": 0}
+{"transactionId": 8361895426, "basket": [4, 4, 4, 0, 5, 3, 1], "zipCode": 8546, "totalAmount": 294, "returnLabel": 0}
+{"transactionId": 6617115839, "basket": [3, 2, 3], "zipCode": 3207, "totalAmount": 180, "returnLabel": 0}
+{"transactionId": 4209837557, "basket": [0, 5, 2, 2, 0, 4, 5, 2, 4], "zipCode": 5092, "totalAmount": 603, "returnLabel": 0}
+{"transactionId": 8425588123, "basket": [2, 2, 5, 0, 1, 4, 0, 5], "zipCode": 5988, "totalAmount": 544, "returnLabel": 0}
+{"transactionId": 4152311263, "basket": [1, 4, 0, 5, 5, 4, 1], "zipCode": 4844, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 4540945795, "basket": [3, 2, 0, 5, 0], "zipCode": 9260, "totalAmount": 275, "returnLabel": 0}
+{"transactionId": 2681437219, "basket": [4, 5, 3, 4, 0, 2, 1, 5], "zipCode": 1647, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 6159459670, "basket": [1, 4], "zipCode": 4070, "totalAmount": 200, "returnLabel": 0}
+{"transactionId": 9567365302, "basket": [1, 1], "zipCode": 4089, "totalAmount": 158, "returnLabel": 0}
+{"transactionId": 6365458728, "basket": [2, 3, 1], "zipCode": 6643, "totalAmount": 141, "returnLabel": 0}
+{"transactionId": 6247481824, "basket": [1, 4, 4], "zipCode": 2221, "totalAmount": 114, "returnLabel": 0}
+{"transactionId": 8902212633, "basket": [4, 2], "zipCode": 3223, "totalAmount": 150, "returnLabel": 0}
+{"transactionId": 7038117154, "basket": [2, 5, 4, 3, 5, 2, 0], "zipCode": 4880, "totalAmount": 189, "returnLabel": 0}
+{"transactionId": 8068984537, "basket": [1, 2, 0, 1], "zipCode": 6117, "totalAmount": 196, "returnLabel": 0}
+{"transactionId": 4721454232, "basket": [4, 3, 0], "zipCode": 7047, "totalAmount": 129, "returnLabel": 0}
+{"transactionId": 9671427350, "basket": [3, 5, 3, 1, 3, 2], "zipCode": 7154, "totalAmount": 240, "returnLabel": 0}
+{"transactionId": 2996089001, "basket": [0, 1, 2, 4, 1], "zipCode": 3000, "totalAmount": 200, "returnLabel": 0}
+{"transactionId": 6610464300, "basket": [2, 4, 2], "zipCode": 6480, "totalAmount": 54, "returnLabel": 0}
+{"transactionId": 8081863038, "basket": [1, 0, 3, 0], "zipCode": 9471, "totalAmount": 124, "returnLabel": 0}
+{"transactionId": 8507245315, "basket": [1], "zipCode": 4050, "totalAmount": 59, "returnLabel": 0}
+{"transactionId": 7128494666, "basket": [1, 4, 5, 0, 3, 5, 1, 3, 1, 3, 2], "zipCode": 2141, "totalAmount": 1078, "returnLabel": 0}
+{"transactionId": 4289565232, "basket": [4, 4, 3, 5, 1, 0, 5, 4], "zipCode": 1177, "totalAmount": 312, "returnLabel": 0}
+{"transactionId": 4030427870, "basket": [5, 5, 4, 4, 0], "zipCode": 7902, "totalAmount": 390, "returnLabel": 0}
+{"transactionId": 1081212103, "basket": [3], "zipCode": 8907, "totalAmount": 46, "returnLabel": 0}
+{"transactionId": 9256287451, "basket": [2, 1, 4, 1, 2, 3, 1, 2, 1], "zipCode": 7570, "totalAmount": 180, "returnLabel": 0}
+{"transactionId": 2945537415, "basket": [4, 4, 4, 5, 0, 3, 5, 1, 5, 2], "zipCode": 9408, "totalAmount": 160, "returnLabel": 0}
+{"transactionId": 2203815580, "basket": [4, 2, 4, 2, 0, 0, 4, 2], "zipCode": 5524, "totalAmount": 680, "returnLabel": 0}
+{"transactionId": 8303315733, "basket": [0, 3, 0, 1, 4, 1, 0, 5], "zipCode": 7959, "totalAmount": 776, "returnLabel": 0}
+{"transactionId": 8726882848, "basket": [0, 4, 2, 4, 2, 4, 1, 3, 0, 1], "zipCode": 3063, "totalAmount": 190, "returnLabel": 0}
+{"transactionId": 3096605583, "basket": [5, 2, 1, 1, 2, 3], "zipCode": 1595, "totalAmount": 270, "returnLabel": 0}
+{"transactionId": 1897418032, "basket": [4, 3, 1, 2, 0, 4], "zipCode": 1556, "totalAmount": 498, "returnLabel": 0}
+{"transactionId": 3317375723, "basket": [4, 0, 2], "zipCode": 9738, "totalAmount": 69, "returnLabel": 0}
+{"transactionId": 6839224373, "basket": [0, 5, 3, 2], "zipCode": 8629, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 2636083233, "basket": [0, 4, 5], "zipCode": 8684, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 1556903469, "basket": [4, 2, 3, 4, 4, 3], "zipCode": 2196, "totalAmount": 270, "returnLabel": 0}
+{"transactionId": 5503618908, "basket": [2, 3, 4, 0], "zipCode": 4778, "totalAmount": 228, "returnLabel": 0}
+{"transactionId": 4237964719, "basket": [4, 0, 3, 0, 5], "zipCode": 4953, "totalAmount": 310, "returnLabel": 0}
+{"transactionId": 8860340673, "basket": [4, 4, 5, 0], "zipCode": 9067, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 8554073684, "basket": [0], "zipCode": 6697, "totalAmount": 53, "returnLabel": 0}
+{"transactionId": 8596170136, "basket": [5, 1, 2, 2, 4, 1, 0], "zipCode": 7469, "totalAmount": 343, "returnLabel": 0}
+{"transactionId": 2791641962, "basket": [0], "zipCode": 6203, "totalAmount": 13, "returnLabel": 0}
+{"transactionId": 2896031913, "basket": [2, 0, 5], "zipCode": 2789, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 5160078003, "basket": [3, 1, 4, 3, 3, 3, 5, 2], "zipCode": 7632, "totalAmount": 328, "returnLabel": 0}
+{"transactionId": 4805328080, "basket": [2], "zipCode": 8209, "totalAmount": 38, "returnLabel": 0}
+{"transactionId": 8799731603, "basket": [0], "zipCode": 2682, "totalAmount": 36, "returnLabel": 0}
+{"transactionId": 8727301830, "basket": [1], "zipCode": 6171, "totalAmount": 11, "returnLabel": 0}
+{"transactionId": 2707496565, "basket": [0, 1, 4, 4, 3, 0, 1, 4, 4], "zipCode": 2446, "totalAmount": 90, "returnLabel": 0}
+{"transactionId": 6471931564, "basket": [5, 5, 1, 3, 4], "zipCode": 5349, "totalAmount": 305, "returnLabel": 0}
+{"transactionId": 4050873769, "basket": [2, 1, 2, 4], "zipCode": 8438, "totalAmount": 340, "returnLabel": 0}
+{"transactionId": 6305834635, "basket": [2, 1, 2, 2, 0, 4, 5], "zipCode": 1493, "totalAmount": 686, "returnLabel": 0}
+{"transactionId": 9333140096, "basket": [2, 2, 4, 4], "zipCode": 9016, "totalAmount": 420, "returnLabel": 0}
+{"transactionId": 3578140241, "basket": [4, 3, 3, 4, 3], "zipCode": 1757, "totalAmount": 320, "returnLabel": 1}
+{"transactionId": 6628186689, "basket": [4, 5, 1, 4, 4, 0, 2, 2, 5], "zipCode": 2210, "totalAmount": 954, "returnLabel": 0}
+{"transactionId": 5842965961, "basket": [0, 5, 2, 4, 1], "zipCode": 5708, "totalAmount": 390, "returnLabel": 0}
+{"transactionId": 2990068078, "basket": [4, 1, 0, 3, 2], "zipCode": 5147, "totalAmount": 375, "returnLabel": 0}
+{"transactionId": 6022167363, "basket": [5], "zipCode": 8388, "totalAmount": 31, "returnLabel": 0}
+{"transactionId": 3554683444, "basket": [3, 4, 2, 2, 5, 4], "zipCode": 7966, "totalAmount": 324, "returnLabel": 0}
+{"transactionId": 6609514540, "basket": [5, 0, 4, 5, 4, 4, 3, 3], "zipCode": 1721, "totalAmount": 216, "returnLabel": 0}
+{"transactionId": 7533677370, "basket": [3, 0, 3, 0], "zipCode": 5963, "totalAmount": 124, "returnLabel": 0}
+{"transactionId": 4749752053, "basket": [4, 2, 4, 2, 0, 5, 1], "zipCode": 2645, "totalAmount": 588, "returnLabel": 0}
+{"transactionId": 5246617914, "basket": [0], "zipCode": 7267, "totalAmount": 44, "returnLabel": 0}
+{"transactionId": 3995366252, "basket": [1, 4, 4, 1, 3, 5, 2], "zipCode": 4743, "totalAmount": 266, "returnLabel": 0}
+{"transactionId": 8441403764, "basket": [3, 3, 4, 4], "zipCode": 8953, "totalAmount": 288, "returnLabel": 0}
+{"transactionId": 3167882508, "basket": [4, 3], "zipCode": 6547, "totalAmount": 158, "returnLabel": 0}
+{"transactionId": 1280916867, "basket": [5, 1, 4, 0], "zipCode": 7135, "totalAmount": 376, "returnLabel": 0}
+{"transactionId": 7604044893, "basket": [2, 3, 1, 0, 4, 0, 4], "zipCode": 7957, "totalAmount": 154, "returnLabel": 0}
+{"transactionId": 2246627997, "basket": [4, 3, 3, 5, 1, 4], "zipCode": 5559, "totalAmount": 420, "returnLabel": 0}
+{"transactionId": 4456269876, "basket": [0, 2, 0, 3, 5, 5, 5], "zipCode": 5704, "totalAmount": 294, "returnLabel": 0}
+{"transactionId": 7353018805, "basket": [0, 5, 2, 1, 1, 3, 4], "zipCode": 2692, "totalAmount": 238, "returnLabel": 0}
+{"transactionId": 4468842073, "basket": [3, 0, 0], "zipCode": 4197, "totalAmount": 195, "returnLabel": 0}
+{"transactionId": 3297396543, "basket": [5, 2, 4, 0, 1, 5, 4, 3], "zipCode": 9929, "totalAmount": 432, "returnLabel": 0}
+{"transactionId": 1120950999, "basket": [2, 4, 1, 4, 3, 1], "zipCode": 5725, "totalAmount": 114, "returnLabel": 0}
+{"transactionId": 7433186292, "basket": [3], "zipCode": 3109, "totalAmount": 45, "returnLabel": 0}
+{"transactionId": 6130023428, "basket": [4, 1, 4, 4, 2, 0, 3, 5, 4, 2], "zipCode": 8926, "totalAmount": 610, "returnLabel": 0}
+{"transactionId": 8790160834, "basket": [4, 4, 3, 2, 1], "zipCode": 8414, "totalAmount": 435, "returnLabel": 0}
+{"transactionId": 2566224152, "basket": [0, 5, 0, 5], "zipCode": 6696, "totalAmount": 224, "returnLabel": 0}
+{"transactionId": 5765339687, "basket": [1], "zipCode": 3439, "totalAmount": 22, "returnLabel": 0}
+{"transactionId": 9434851635, "basket": [2, 0, 4, 1, 0, 3], "zipCode": 5873, "totalAmount": 414, "returnLabel": 0}
+{"transactionId": 4557180815, "basket": [3, 1, 5, 2, 5, 5], "zipCode": 8435, "totalAmount": 114, "returnLabel": 0}
+{"transactionId": 4500799450, "basket": [4, 3, 0, 2], "zipCode": 9475, "totalAmount": 188, "returnLabel": 0}
+{"transactionId": 1838107951, "basket": [4, 2, 2], "zipCode": 1525, "totalAmount": 117, "returnLabel": 0}
+{"transactionId": 4808887371, "basket": [3, 0, 3, 5, 2, 5, 1, 4, 0], "zipCode": 2752, "totalAmount": 90, "returnLabel": 0}
+{"transactionId": 3928906358, "basket": [2, 5, 1, 1, 5], "zipCode": 7847, "totalAmount": 85, "returnLabel": 0}
+{"transactionId": 3841012572, "basket": [4, 2, 1, 0], "zipCode": 6212, "totalAmount": 240, "returnLabel": 0}
+{"transactionId": 6131686147, "basket": [5, 2], "zipCode": 2027, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 6449290675, "basket": [0], "zipCode": 5587, "totalAmount": 52, "returnLabel": 0}
+{"transactionId": 3008794479, "basket": [0, 2, 4, 4], "zipCode": 6784, "totalAmount": 56, "returnLabel": 0}
+{"transactionId": 5389359359, "basket": [2], "zipCode": 4373, "totalAmount": 20, "returnLabel": 0}
+{"transactionId": 9950630000, "basket": [4, 2, 5, 3, 4, 0, 2, 0], "zipCode": 7955, "totalAmount": 312, "returnLabel": 0}
+{"transactionId": 9569685595, "basket": [4, 0, 5, 4, 1], "zipCode": 1131, "totalAmount": 455, "returnLabel": 0}
+{"transactionId": 2511716096, "basket": [2, 5, 2], "zipCode": 2706, "totalAmount": 252, "returnLabel": 0}
+{"transactionId": 6480065319, "basket": [2, 0, 2, 0], "zipCode": 3257, "totalAmount": 192, "returnLabel": 0}
+{"transactionId": 6970244184, "basket": [4, 0], "zipCode": 9562, "totalAmount": 176, "returnLabel": 1}
+{"transactionId": 6144361667, "basket": [2], "zipCode": 3026, "totalAmount": 69, "returnLabel": 0}
+{"transactionId": 9216229844, "basket": [4, 1, 0], "zipCode": 6535, "totalAmount": 192, "returnLabel": 0}
+{"transactionId": 9728051316, "basket": [0, 0, 4, 1, 0], "zipCode": 3718, "totalAmount": 440, "returnLabel": 0}
+{"transactionId": 3389201558, "basket": [2], "zipCode": 9858, "totalAmount": 53, "returnLabel": 0}
+{"transactionId": 5962179209, "basket": [3, 0, 1, 0, 2, 4, 2], "zipCode": 5019, "totalAmount": 378, "returnLabel": 0}
+{"transactionId": 1425574925, "basket": [5, 1, 2, 1, 1, 4], "zipCode": 5960, "totalAmount": 192, "returnLabel": 0}
+{"transactionId": 3341045567, "basket": [3, 0, 5], "zipCode": 7136, "totalAmount": 66, "returnLabel": 0}
+{"transactionId": 2229063328, "basket": [5, 2, 1, 3, 5, 5, 3], "zipCode": 7002, "totalAmount": 413, "returnLabel": 0}
+{"transactionId": 3898156374, "basket": [1, 5, 5, 0, 2, 2, 4], "zipCode": 5092, "totalAmount": 455, "returnLabel": 0}
+{"transactionId": 6386610756, "basket": [1], "zipCode": 5930, "totalAmount": 35, "returnLabel": 0}
+{"transactionId": 9358955427, "basket": [3, 5, 0], "zipCode": 7823, "totalAmount": 126, "returnLabel": 0}
+{"transactionId": 5142490595, "basket": [4, 1, 1, 5, 3, 3, 5], "zipCode": 8662, "totalAmount": 371, "returnLabel": 0}
+{"transactionId": 4270641836, "basket": [0, 4, 4, 5, 2, 4], "zipCode": 6296, "totalAmount": 318, "returnLabel": 0}
+{"transactionId": 3240653248, "basket": [0], "zipCode": 2986, "totalAmount": 10, "returnLabel": 0}
+{"transactionId": 4601066024, "basket": [1], "zipCode": 4842, "totalAmount": 34, "returnLabel": 0}
+{"transactionId": 3717837082, "basket": [2, 1], "zipCode": 5499, "totalAmount": 134, "returnLabel": 1}
+{"transactionId": 4451088637, "basket": [3, 5, 4, 1, 0, 4, 0], "zipCode": 5586, "totalAmount": 742, "returnLabel": 0}
+{"transactionId": 7425983652, "basket": [2], "zipCode": 7751, "totalAmount": 62, "returnLabel": 0}
+{"transactionId": 1115482711, "basket": [1, 5, 5, 2, 0, 4, 5, 2, 1], "zipCode": 8023, "totalAmount": 486, "returnLabel": 0}
+{"transactionId": 4302471513, "basket": [1, 5, 2, 4, 4, 3, 0], "zipCode": 3628, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 6041646134, "basket": [1, 5, 0, 4, 5], "zipCode": 6104, "totalAmount": 280, "returnLabel": 0}
+{"transactionId": 2968228843, "basket": [5, 2, 5, 3], "zipCode": 1764, "totalAmount": 200, "returnLabel": 0}
+{"transactionId": 4099718808, "basket": [3, 4, 5, 3, 3, 1], "zipCode": 9449, "totalAmount": 318, "returnLabel": 0}
+{"transactionId": 7690129872, "basket": [5, 3, 2, 3, 4, 4, 0, 5], "zipCode": 4478, "totalAmount": 528, "returnLabel": 0}
+{"transactionId": 4044162013, "basket": [5, 0], "zipCode": 1207, "totalAmount": 108, "returnLabel": 0}
+{"transactionId": 9762763834, "basket": [4, 2, 5, 5, 1, 1], "zipCode": 1641, "totalAmount": 288, "returnLabel": 0}
+{"transactionId": 2617834786, "basket": [5, 2, 0, 2], "zipCode": 4286, "totalAmount": 72, "returnLabel": 0}
+{"transactionId": 8202581960, "basket": [1, 4, 3, 3, 2, 3, 5, 2, 4, 3, 1, 1, 2, 5, 1], "zipCode": 1652, "totalAmount": 195, "returnLabel": 0}
+{"transactionId": 2744236154, "basket": [4], "zipCode": 1761, "totalAmount": 46, "returnLabel": 0}
+{"transactionId": 8424729061, "basket": [4, 1], "zipCode": 6202, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 2659859105, "basket": [1, 5, 2, 1], "zipCode": 4058, "totalAmount": 96, "returnLabel": 0}
+{"transactionId": 2383975166, "basket": [5], "zipCode": 8631, "totalAmount": 81, "returnLabel": 0}
+{"transactionId": 3007405951, "basket": [5, 3, 5, 4, 4], "zipCode": 8154, "totalAmount": 245, "returnLabel": 0}
+{"transactionId": 1760417350, "basket": [4, 2, 5, 2], "zipCode": 2844, "totalAmount": 84, "returnLabel": 0}
+{"transactionId": 3953022209, "basket": [4, 1, 1, 1, 1, 4, 4, 5], "zipCode": 7366, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 6073279983, "basket": [1], "zipCode": 1349, "totalAmount": 72, "returnLabel": 0}
+{"transactionId": 8214732899, "basket": [1], "zipCode": 7846, "totalAmount": 10, "returnLabel": 0}
+{"transactionId": 8195879884, "basket": [4], "zipCode": 9444, "totalAmount": 81, "returnLabel": 1}
+{"transactionId": 6512061588, "basket": [2], "zipCode": 2671, "totalAmount": 10, "returnLabel": 1}
+{"transactionId": 2516279097, "basket": [2, 1, 4, 1, 4], "zipCode": 6193, "totalAmount": 135, "returnLabel": 0}
+{"transactionId": 3274612729, "basket": [5], "zipCode": 2667, "totalAmount": 46, "returnLabel": 0}
+{"transactionId": 5744984350, "basket": [1, 4, 3, 2], "zipCode": 6984, "totalAmount": 104, "returnLabel": 0}
+{"transactionId": 2526679569, "basket": [5, 5, 3, 3], "zipCode": 3640, "totalAmount": 240, "returnLabel": 0}
+{"transactionId": 5604024110, "basket": [4, 1, 1, 3, 3], "zipCode": 2790, "totalAmount": 330, "returnLabel": 0}
+{"transactionId": 4337099861, "basket": [5, 3, 3, 0, 5, 4, 4, 5, 3, 2, 5, 3, 0, 4], "zipCode": 6841, "totalAmount": 910, "returnLabel": 0}
+{"transactionId": 9326014941, "basket": [1, 2, 5, 2, 4, 3, 1, 2, 3], "zipCode": 8781, "totalAmount": 549, "returnLabel": 0}
+{"transactionId": 9638317925, "basket": [1, 0, 2], "zipCode": 6430, "totalAmount": 90, "returnLabel": 0}
+{"transactionId": 4452781304, "basket": [4, 3, 3, 2, 3], "zipCode": 5724, "totalAmount": 675, "returnLabel": 1}
+{"transactionId": 9700369711, "basket": [1, 1, 4, 4, 2, 3, 3, 4], "zipCode": 5053, "totalAmount": 296, "returnLabel": 0}
+{"transactionId": 6048775211, "basket": [2, 0, 5, 0, 1], "zipCode": 7522, "totalAmount": 515, "returnLabel": 0}
+{"transactionId": 6282305329, "basket": [5, 0, 4], "zipCode": 1744, "totalAmount": 198, "returnLabel": 0}
+{"transactionId": 8377278884, "basket": [5, 5, 5, 0, 4, 5, 0, 5, 5, 0, 2], "zipCode": 5262, "totalAmount": 847, "returnLabel": 0}
+{"transactionId": 5462565569, "basket": [5, 3, 0, 5, 4, 1, 2, 4], "zipCode": 7284, "totalAmount": 824, "returnLabel": 0}
+{"transactionId": 4962638441, "basket": [3, 4, 4, 1, 5, 0, 0, 1], "zipCode": 4246, "totalAmount": 528, "returnLabel": 0}
+{"transactionId": 4091416868, "basket": [4, 1, 0, 2, 5, 3], "zipCode": 6162, "totalAmount": 462, "returnLabel": 0}
+{"transactionId": 1158160260, "basket": [2], "zipCode": 9741, "totalAmount": 39, "returnLabel": 0}
+{"transactionId": 1641766518, "basket": [2, 3, 4, 4, 0, 2, 2, 5, 5, 4, 0, 3], "zipCode": 9847, "totalAmount": 936, "returnLabel": 0}
+{"transactionId": 5754341103, "basket": [2], "zipCode": 9268, "totalAmount": 84, "returnLabel": 0}
+{"transactionId": 8511478629, "basket": [2], "zipCode": 4958, "totalAmount": 115, "returnLabel": 0}
+{"transactionId": 5851362247, "basket": [1, 2, 5, 4, 5], "zipCode": 3508, "totalAmount": 185, "returnLabel": 0}
+{"transactionId": 6192841309, "basket": [1, 3, 4, 1], "zipCode": 4167, "totalAmount": 44, "returnLabel": 0}
+{"transactionId": 9073580363, "basket": [1, 5, 4, 1], "zipCode": 6319, "totalAmount": 156, "returnLabel": 0}
+{"transactionId": 2216287152, "basket": [0, 4, 4, 1, 0, 4, 3], "zipCode": 5520, "totalAmount": 532, "returnLabel": 0}
+{"transactionId": 3183144218, "basket": [5, 5, 4, 0, 2, 3, 1, 1], "zipCode": 8945, "totalAmount": 432, "returnLabel": 0}
+{"transactionId": 9557697889, "basket": [3, 0, 4, 1], "zipCode": 5799, "totalAmount": 204, "returnLabel": 0}
+{"transactionId": 2163864741, "basket": [4, 3, 4, 1], "zipCode": 7741, "totalAmount": 184, "returnLabel": 0}
+{"transactionId": 5925392730, "basket": [0, 5, 2, 0, 3, 0, 2, 1, 0], "zipCode": 1514, "totalAmount": 297, "returnLabel": 0}
+{"transactionId": 2488608651, "basket": [5, 4, 0, 1, 1, 4, 5, 2], "zipCode": 3729, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 7664952927, "basket": [4, 3, 2], "zipCode": 7021, "totalAmount": 231, "returnLabel": 0}
+{"transactionId": 2679242953, "basket": [5, 2, 4, 2, 4], "zipCode": 1787, "totalAmount": 390, "returnLabel": 0}
+{"transactionId": 2024875014, "basket": [4, 4, 2, 4, 1, 1, 2], "zipCode": 5752, "totalAmount": 616, "returnLabel": 0}
+{"transactionId": 6252504022, "basket": [4, 4, 4, 4, 2, 4, 4, 1, 0], "zipCode": 2883, "totalAmount": 666, "returnLabel": 1}
+{"transactionId": 5909036145, "basket": [4, 4, 4, 0, 2, 1, 4, 4, 2, 4], "zipCode": 6649, "totalAmount": 670, "returnLabel": 0}
+{"transactionId": 4829334240, "basket": [1, 5, 3], "zipCode": 8356, "totalAmount": 30, "returnLabel": 0}
+{"transactionId": 1926654873, "basket": [3, 0, 5], "zipCode": 1171, "totalAmount": 216, "returnLabel": 0}
+{"transactionId": 5527139614, "basket": [5, 1, 0, 4, 2, 5, 5, 1], "zipCode": 3620, "totalAmount": 264, "returnLabel": 0}
+{"transactionId": 7889548481, "basket": [2, 5, 1, 2], "zipCode": 7868, "totalAmount": 68, "returnLabel": 0}
+{"transactionId": 2687570085, "basket": [3, 4], "zipCode": 8546, "totalAmount": 160, "returnLabel": 0}
+{"transactionId": 7330981993, "basket": [3, 5, 0, 3, 2, 0, 0], "zipCode": 2014, "totalAmount": 70, "returnLabel": 0}
+{"transactionId": 2993819529, "basket": [3, 3, 2, 4, 5, 4, 4, 4, 0], "zipCode": 1212, "totalAmount": 810, "returnLabel": 0}
+{"transactionId": 2126316162, "basket": [5, 0, 2], "zipCode": 7428, "totalAmount": 213, "returnLabel": 0}
+{"transactionId": 8544089796, "basket": [5, 4, 5, 3, 5, 3], "zipCode": 5310, "totalAmount": 198, "returnLabel": 0}
+{"transactionId": 4837838623, "basket": [4], "zipCode": 5913, "totalAmount": 80, "returnLabel": 0}
+{"transactionId": 9935730919, "basket": [2, 4, 0], "zipCode": 9932, "totalAmount": 285, "returnLabel": 0}
+{"transactionId": 6533674597, "basket": [5, 5, 1, 3, 4, 5], "zipCode": 5807, "totalAmount": 144, "returnLabel": 0}
+{"transactionId": 5557483548, "basket": [0, 2, 1], "zipCode": 2546, "totalAmount": 78, "returnLabel": 0}
+{"transactionId": 2612499756, "basket": [4, 2, 0, 1, 3, 5], "zipCode": 8395, "totalAmount": 210, "returnLabel": 0}
+{"transactionId": 8713187938, "basket": [5, 2, 1, 2, 5, 5, 1, 2, 3], "zipCode": 3291, "totalAmount": 558, "returnLabel": 0}
+{"transactionId": 9040180297, "basket": [2], "zipCode": 2795, "totalAmount": 10, "returnLabel": 0}
+{"transactionId": 9472689409, "basket": [2], "zipCode": 4535, "totalAmount": 21, "returnLabel": 0}
+{"transactionId": 1643716263, "basket": [2, 2, 1, 2], "zipCode": 3302, "totalAmount": 40, "returnLabel": 0}
+{"transactionId": 5430310662, "basket": [2, 2, 0, 5, 1], "zipCode": 8155, "totalAmount": 120, "returnLabel": 0}
+{"transactionId": 1379415160, "basket": [3, 1, 0, 0], "zipCode": 1255, "totalAmount": 56, "returnLabel": 0}
+{"transactionId": 5096033658, "basket": [2], "zipCode": 5237, "totalAmount": 19, "returnLabel": 0}
+{"transactionId": 8463607351, "basket": [1, 4, 0, 1, 1, 4], "zipCode": 9162, "totalAmount": 540, "returnLabel": 0}
+{"transactionId": 3176837275, "basket": [4, 2], "zipCode": 5071, "totalAmount": 184, "returnLabel": 0}
+{"transactionId": 4897672789, "basket": [1, 1], "zipCode": 6212, "totalAmount": 94, "returnLabel": 0}
+{"transactionId": 5952270726, "basket": [4, 0, 3, 0, 5, 0, 3, 2, 2], "zipCode": 5096, "totalAmount": 180, "returnLabel": 0}
+{"transactionId": 8443506702, "basket": [1, 2, 5, 4, 4], "zipCode": 8994, "totalAmount": 50, "returnLabel": 0}
+{"transactionId": 3333459009, "basket": [5], "zipCode": 8903, "totalAmount": 48, "returnLabel": 0}
+{"transactionId": 6440174162, "basket": [3, 1, 5, 1, 5, 3, 0, 5], "zipCode": 3376, "totalAmount": 296, "returnLabel": 0}
+{"transactionId": 4235561586, "basket": [4, 2, 1, 0, 2], "zipCode": 2055, "totalAmount": 380, "returnLabel": 0}
+{"transactionId": 6248674076, "basket": [5], "zipCode": 7116, "totalAmount": 92, "returnLabel": 0}
