@@ -1,0 +1,33 @@
+#,Person is,Test says;;
+1,sick,sick;TP;
+2,healthy,sick;FP;
+3,healthy,sick;FP;
+4,healthy,sick;FP;
+5,sick,sick;TP;
+6,sick,healthy;FN;
+7,sick,healthy;FN;
+8,healthy,healthy;TN;
+9,healthy,sick;FP;
+10,healthy,healthy;TN;
+;;
+;;
+;TP;2
+;FP;4
+;TN;2
+;FN;2
+;;10
+;;
+;;
+Precision = TP / ( TP+ FP );;
+Precision = 2 / ( 2+ 4 );;
+Precision = 0,33;;
+;;
+Recal = TP / ( TP + FN );;
+Recal = 2 / ( 2 + 2 );;
+Recal = 0,5;;
+;;
+;;
+Accuray = TP + TN / ( TP + TN + FP +FN );;
+Accuracy = 2 + 2 / ( 2 + 2 + 4 + 2  );;
+Accuracy = 4 / 10;;
+Accuracy = 0,4;;
